@@ -310,7 +310,6 @@ When creating an accession record, fill out the following subrecords:
 - Related Resources (if applicable)
 - Related Accessions (if applicable)
 - Collection Management
-- User Defined
 - Create Event > Processing New
 
 ### Extent Calculations
