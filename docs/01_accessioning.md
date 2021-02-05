@@ -186,9 +186,13 @@ The instructions below can be used both for creating and editing accession recor
 12.	**Restrictions Apply?** Check if there are **ANY** restrictions on the collection.
 13.	**Publish?** Do **NOT** check.
 14.	**Access Restrictions?** Check if there are any access restrictions.
-15.	A**ccess Restrictions Note**: Describe any access restrictions.
-16.	Use Restrictions? Check if there are any use restrictions.
+15.	**Access Restrictions Note**: Describe any access restrictions.
+16.	**Use Restrictions?** Check if there are any use restrictions.
 17.	**Use Restrictions Note**: Describe any use restrictions.
+18. **Classification 1**: Select the primary collecting area for this accession (e.g., AFT, AFSCME, ALUA_URBAN, AV, WSU, etc.)
+19. **Classification 2**: Select only if there is a secondary collecting area for this accession. This will generally only be the case for accessions that are *both* primarily AV and fall into another collecting area (e.g., AFT, AFSCME, ALUA_LABOR, SEIU, UAW, etc.)
+20. **Location 1**: Enter the physical location of the accession.
+21. **Location 2**: Use this only if there is some signficant secondary location for the accession that cannot easily be communicated in Location 1. Not that this field is primarily maintained for legacy purposes and generally should not be used.
 
 ![Basic Information](img/aspace_accession_basic_info.png)
 
@@ -283,13 +287,6 @@ At a minimum the creator of the collection must be entered. Follow the instructi
 3.	**Processing Plan**: Enter the level to which the collection should be processed (1, 2, or 3). 
 
 ![Collection Management](img/aspace_accession_collection_management.png)
-
-### User Defined
-The following **User Defined** field is filled out for all accessions.
-
-1.	**Text 1**: Enter the physical location of the accession.
-
-![User Defined](img/aspace_accession_user_defined.png)
 
 ### Processing New Event
 Create a **Processing New Event** for all accessions.
