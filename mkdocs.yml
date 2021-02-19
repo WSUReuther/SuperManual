@@ -9,6 +9,8 @@ markdown_extensions:
     - footnotes
     - pymdownx.magiclink
     - pymdownx.mark
+    - pymdownx.snippets:
+        base_path: docs/snippets
     - pymdownx.superfences
     - sane_lists
     - toc:
@@ -17,9 +19,16 @@ markdown_extensions:
 nav:
     - Section 1 - Accessioning: 01_accessioning.md
     - Section 2 -  Arrangement and Description:
-        - General: 02_arrangement/02_01_general.md
-        - Special Formats: 02_arrangement/02_02_special-formats.md
-        - ArchivesSpace: 02_arrangement/02_03_archivesspace.md
-    - Section 3 - Digitization: 03_digitization.md
-    - Section 4 - Access: 04_access.md
-    - Section 5 - Contributing: 05_contributing.md
+        - a. General: 02_arrangement/02_01_general.md
+        - b. Special Formats: 02_arrangement/02_02_special-formats.md
+        - c. Resources / Collection Level: 02_arrangement/02_03_resources.md
+        - d. Archival Objects / Inventories: 02_arrangement/02_04_archival_objects.md
+    - Section 3 - Shared Guidelines:
+        - a. Extent Calculations: 03_shared/03_01_extent_calculations.md
+        - b. ArchivesSpace Events: 03_shared/03_02_events.md
+        - c. Agents and Subjects: 03_shared/03_03_agents_subjects.md
+        - d. Note Guidelines: 03_shared/03_04_notes.md
+        - e. Instances / Containers: 03_shared/03_05_instances.md
+    - Section 4 - Digitization: 04_digitization.md
+    - Section 5 - Access: 05_access.md
+    - Contributing: contributing.md

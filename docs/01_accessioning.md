@@ -20,7 +20,7 @@ Accessioning is a combined effort between the Reuther Coordinator and either the
 Outlined below is the workflow followed for each incoming collection (**new**: material received for a collection that is only now being established, i.e., the Reuther has not received any collection materials previously; **addition**: material received for an established collection that was previously thought complete; or **accrual**: material received for a collection that receives ongoing deposits). Numbers in parenthesis correspond to the workflow above. 
 
 1. **Reuther Coordinator** notifies the Field or Collection Archivist by email the day a shipment arrives (1B and 2B). Alternatively, the **Field/ Collection Archivist oversees and carries** out the transfer or direct capture of the digital materials (1A) to the Reuther Library (2A). 
-2. **Field/ Collection Archivist** obtains an accession number (3) (if not previously done), creates an [ArchivesSpace accession record](#accession-numbers) (4) and linked [Processing New event](02_arrangement/02_03_archivesspace.md#processing-new) (5) within **2 weeks** of notification and,  
+2. **Field/ Collection Archivist** obtains an accession number (3) (if not previously done), creates an [ArchivesSpace accession record](#accession-numbers) (4) and linked [Processing New event](03_shared/03_02_events.md#processing-new) (5) within **2 weeks** of notification and,  
     1. Completes case file (paper, electronic, or both) with: deposit agreement/deed of gift, correspondence, restrictions, inventory (if provided), and original/draft transcripts (if oral history) (6). 
     2. Begins a [collection checklist](https://waynestateprod.sharepoint.com/:w:/r/sites/Libraries/Reuther/Documents/Collections/Collection%20Management/Collection_checklist.doc?d=wd7229a74ba234273b8a1d4ace6df7e5a&csf=1&web=1&e=6XhUQn) and files it in the electronic case file (7). 
 3. For analog materials the **Field/ Collection Archivist** 
@@ -172,7 +172,7 @@ The instructions below can be used both for creating and editing accession recor
 ### Basic Information
 **Basic Information** is filled out for all accessions.
 
-1.	**Title**: Enter [DACS compliant collection title](https://github.com/saa-ts-dacs/dacs/blob/master/06_part_I/03_chapter_02/03_title.md)
+1.	**Title**: Enter [DACS compliant collection title](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 2.	**Identifier***: In the first field, enter the full accession number (including appropriate prefix). In the second field, enter the accession date (YYYYMMDD) format. Leave the third and fourth fields blank.[^3]
 3.	**Accession Date***: Enter the accession date, if different than today’s date (YYYY-MM-DD format).
 4.	**Content Description**: Enter a brief overview of what the material is about.
@@ -202,52 +202,21 @@ Additional accession-related information is added in the subrecords listed in th
     The one exception is when the accession has the same accession number and accession date as a previous accession (likely backlog). In this case, treat the third Identifier field as a counter, beginning with 1, to distinguish between the accessions.
 
 ### Dates
-**Dates** is filled out for all accessions.
-
-1.	**Label***: Ensure “Creation” is selected (if adding a creation date)
-2.	**Expression**: (ONLY for circa dates) Enter the date or date range (in DACS format)
-3.	**Type***: Select the appropriate type.
-4.	**Begin**: Enter begin date (leave blank if Expression was used)
-5.	**End**: Enter end date (leave blank if Expression was used)
-6.	**Certainty**: If you are exact, leave blank, otherwise choose “approximate.”
-7.	**+**: Select to add another date (otherwise do not select).
+--8<-- "dates.md"
 
 ![Dates](img/aspace_accession_dates.png)
 
 ### Extents
 **Extents** is filled out for all accessions.
 
-!!! note "Analog-Only Collections"
-    1.	**Portion***: Ensure “Whole” is selected.
-    2.	**Number***: Enter the number of linear feet of the entire collection. (See [Extent Calculation](#extent-calculations))
-    3.	**Type***: Select “Linear Feet”
-    4.	**Container Summary**: Enter the number of boxes of each type within parentheses.
-    5.	**Physical Details**: Mostly for AV Archivist use to qualify the amount and types of AV materials.
-
-!!! note "Digital-Only Collections"
-    1.	**Portion***: Ensure “Whole” is selected.
-    2.	**Number***: Enter the number of Gigabytes, Megabytes, or Terabytes of the entire collection.  (See [Extent Calculation](#extent-calculations))
-    3.	**Type***: Select “Gigabytes,” “Megabytes,” or “Terabytes.”
-    4.	**Container Summary**: Enter “Digital collection.”
-
-!!! note "Hybrid Collections"
-    1.	**Portion***: Select “Part.”
-    2.	**Number***: Enter the number of linear feet of the entire analog part of the collection. (See [Extent Calculation](#extent-calculations))
-    3.	**Type***: Select “Linear Feet”
-    4.	**Container Summary**: Enter the number of boxes of each type.
-    5.	**Physical Details**: Mostly for AV Archivist use to qualify the amount and types of AV materials. This field carries over into the Resource Record.
-    6.	**+**: Select to create the next part of the extent.
-    7.	**Portion***: Select “Part.”
-    8.	**Number***: Enter the number of Gigabytes, Megabytes, or Terabytes of the entire collection.
-    9.	**Type***: Select “Gigabytes,” “Megabytes,” or “Terabytes.”
-    10.	**Container Summary**: Enter “Digital portion of collection.”
+--8<-- "extents.md"
 
 ![Extents](img/aspace_accession_extents.png)
 
 ### Agents
 **Agents** is filled out for all accessions.
 
-At a minimum the creator of the collection must be entered. Follow the instructions found in [ArchivesSpace: Agents and Subject Records](02_arrangement/02_03_archivesspace.md#archivesspace-agent-and-subject-records). 
+At a minimum the creator of the collection must be entered. Follow the instructions found in [ArchivesSpace: Agents and Subject Records](03_shared/03_03_agents_subjects.md#agents). 
 
 ![Agents](img/aspace_accession_agent.png)
 
@@ -271,7 +240,7 @@ At a minimum the creator of the collection must be entered. Follow the instructi
 ![Related Accessions](img/aspace_accessions_related_accessions.png)
 
 ### Subjects
-**Subjects** is only filled out for accessions that will be immediately opened as-is. Follow the instructions found in [ArchivesSpace: Agents and Subject Records](02_arrangement/02_03_archivesspace.md#archivesspace-agent-and-subject-records).
+**Subjects** is only filled out for accessions that will be immediately opened as-is. Follow the instructions found in [ArchivesSpace: Agents and Subject Records](03_shared/03_03_agents_subjects.md#subjects).
 
 ### External Documents
 1.	**Title**: [Document Title(s)] List all documents in the case file that are in the same physical or digital location
@@ -295,7 +264,7 @@ Create a **Processing New Event** for all accessions.
 2.	Select: Add Event dropdown
 3.	Select: Processing New
 4.	Select: Add Event
-5.	Fill out the fields on the [Processing New event](02_arrangement/02_03_archivesspace.md#processing-new) page.
+5.	Fill out the fields on the [Processing New event](03_shared/03_02_events.md#processing-new) page.
 
 ![Processing New Event](img/aspace_accession_processing_new.png)
 
@@ -311,35 +280,3 @@ When creating an accession record, fill out the following subrecords:
 - Related Accessions (if applicable)
 - Collection Management
 - Create Event > Processing New
-
-### Extent Calculations
-Use the following calculations when determining the collection extent in linear feet:
-
-| Container | Extent |
-| --- | --- |
-| 1 SB | 1 l.f. |
-| 1 MB | 0.5 l.f. |
-| ½* MB | 0.25 l.f. |
-| 1 TF | 2 l.f. |
-| 1-5 scrapbooks | 2 l.f; continue for amounts larger than 5 scrapbooks (e.g., 23 scrapbooks = 10 l.f., 3  |scrapbooks = 2 l.f., 10 scrapbooks = 4 l.f., etc.)
-| 1 package | 1 l.f. |
-| 1 object | 2 l.f.  |
-| 1 newspaper | 1 l.f. |
-| 1 folder | 0.25 l.f. |
-| 1 envelope | 0.25 l.f. |
-| 1-5 film reel(s)/can(s) | 1 linear foot |
-| 1-5 magnetic tape reels | 1 linear foot |
-| OS Folder, OS print box, or poster(s) | 3 linear feet |
-
-Use the following formatting when listing multiple types of extent values:
-
-* \# linear feet (# containers or items), # items. # recordings and/or transcripts
-* \# bytes (# files). Specific file types
-
-!!! note
-    ½ MBs are distinguished from MBs for extent calculation purposes ONLY. When writing extent statements, list and count ½ MBs as regular MBs. 
-
-    Examples:
-
-    1.	Collection A has 5 ½ MBs. Extent statement: 1.25 linear feet, 5 MBs. 
-    2.	Collection B has 2 MBs and 3 ½ MBs. Extent statement: 1.25 linear feet, 5 MBs.  

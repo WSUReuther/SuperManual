@@ -199,7 +199,7 @@ Oral histories should receive the same level of description as do papers and rec
 
 #### Examples
 
-Examples are given to help illustrate above points. Refer to oral history notes in [ArchivesSpace: Resource Records](02_03_archivesspace.md) for full description procedures.
+Examples are given to help illustrate above points. Refer to oral history notes in [ArchivesSpace: Resource Records](02_03_resources.md) for full description procedures.
 
 **Example 1: **
 
@@ -374,7 +374,7 @@ AIP is created.
 
 2.	**[STOP FOR NOW. CANNOT CONTINUE DUE TO INFRASTRUCTURE ISSUES AS OF SEPTEMBER 2018].** Create and Upload the DIP: 
 	1. Job: Upload DIP: Select: Upload DIP to ArchivesSpace
-	2. Pair DIP objects to ArchivesSpace resource record inventory items. To complete these steps, there must be an [inventory](02_03_archivesspace.md#inventories-for-archivesspace) in the ArchivesSpace resource record.
+	2. Pair DIP objects to ArchivesSpace resource record inventory items. To complete these steps, there must be an [inventory](02_04_archival_objects.md) in the ArchivesSpace resource record.
 		1. Search for the collection the digital objects will be paired to:
 			1. In the title field enter: [DACS Collections Title]
       		2. In the Identifier field enter: [Accession number]
@@ -437,7 +437,7 @@ This is not typically a necessary step, and only needs to be followed if the pre
     2. Pop-up boxes states SIP is created, Select “OK”
 
 ### Naming Conventions for Born-Digital Materials
-The following guidelines are based on ISO standards and best practices. They apply only to born-digital materials or materials digitized prior to accessioning. For paper-based analog materials that are digitized here at the Reuther, follow the naming conventions in [How to Digitize Analog Manuscripts and Records](../03_digitization.md#how-to-digitize-analog-manuscripts-and-records).
+The following guidelines are based on ISO standards and best practices. They apply only to born-digital materials or materials digitized prior to accessioning. For paper-based analog materials that are digitized here at the Reuther, follow the naming conventions in [How to Digitize Analog Manuscripts and Records](../04_digitization.md#how-to-digitize-analog-manuscripts-and-records).
 
 **For Serials and Publications**
 
@@ -535,4 +535,4 @@ Microfilm and microfiche are described and the format noted in the finding aid. 
         3. Include statement in the box folder list referring researchers to the use restriction statement at the front of the guide (for levels II & III) or indicate whether a Restricted Use Form (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.) should be signed before access is granted. 
         4. Mark boxes containing restricted material with “Restricted Use” label.
     2. IF DISCARDED: Make a listing of items removed from the collection and add it to the case file.  Generally, this can be accomplished in the Resource Record Collection Management subrecord. Material should be shredded after the collection is fully arranged and described.
-    3. IF CLOSED: In cases where portions of the collection are to remain closed for a while, do not list them in the body of your finding aid. Create a [Temporarily Closed](02_03_archivesspace.md#temporarily-closed) event linked to the resource record, so these items can be added when opened. Make a separate list that will be kept in the case file.   
+    3. IF CLOSED: In cases where portions of the collection are to remain closed for a while, do not list them in the body of your finding aid. Create a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event linked to the resource record, so these items can be added when opened. Make a separate list that will be kept in the case file.   

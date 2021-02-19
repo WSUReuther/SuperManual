@@ -5,16 +5,16 @@ Post-accessioning, if collections cannot be immediately processed at one of the 
 
 1. **Collection Archivist** opens the collection within 90 days.
    
-    1. Create an [ArchivesSpace resource record](02_03_archivesspace.md) using collection-level description (copy and paste any relevant info from [ArchivesSpace accession record](../01_accessioning.md#archivesspace-accession-records)).
+    1. Create an [ArchivesSpace resource record](02_03_resources.md) using collection-level description (copy and paste any relevant info from [ArchivesSpace accession record](../01_accessioning.md#archivesspace-accession-records)).
 
     !!! note
         - *If the collection is an addition*, the existing ArchivesSpace resource record will be edited instead, to incorporate the new part. ArchivesSpace will amalgamate a new inventory onto the end of the current inventory list. 
         - *If the collection is an accrual*, only an accrual note (extent, date) should be placed in the existing ArchivesSpace resource record. Restricted accruals may be published at the discretion of the collection archivist.
 
-    2. If an inventory exists in electronic format, it can be copied and pasted into the [EAD template](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/FA_EADtemplate_InventoryOnly.xml), [imported into ArchivesSpace](02_03_archivesspace.md#import-ead-inventory-into-archivesspace) as a resource record, and merged.
-    3. If no inventory exists, the archivist determines whether the collection warrants series descriptions and/or box inventory and adds these to the ArchivesSpace resource record. List individual boxes separately.[^1]  
-    4. All ArchivesSpace exported PDFs are placed in a folder on server as the master preservation copy.
-    5. **Reuther Coordinator** is notified.
+    1. If an inventory exists in electronic format, it can be copied and pasted into the [EAD template](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/FA_EADtemplate_InventoryOnly.xml), [imported into ArchivesSpace](02_04_archival_objects.md#import-ead-inventory-into-archivesspace) as a resource record, and merged.
+    2. If no inventory exists, the archivist determines whether the collection warrants series descriptions and/or box inventory and adds these to the ArchivesSpace resource record. List individual boxes separately.[^1]  
+    3. All ArchivesSpace exported PDFs are placed in a folder on server as the master preservation copy.
+    4. **Reuther Coordinator** is notified.
 
 [^1]: This is necessary for forthcoming ArchivesSpace physical space management.
 
@@ -23,9 +23,9 @@ Post-accessioning, if collections cannot be immediately processed at one of the 
     2. **Collection Archivist** prepares box labels and labels boxes. Any material being physically transferred to AV* is designated as such and an AV archivist is notified.
     3. **Reuther Coordinator** moves collection to its permanent location and delivers any material to AV.
 3. For digital collections: Stabilization (performed by **Field/Collection Archivist** during accessioning) and [AIP creation](02_02_special-formats.md#all-digital-materials) are sufficient, there is no need to pair digital objects to the ArchivesSpace resource record inventory (that is full processing- if the collection is fully processed later, the AIP can be reingested of necessary). 
-4. **Collection Archivist** makes notes regarding actions (discards, transfers, etc.) in the [ArchivesSpace resource record](02_03_archivesspace.md) and specifies if the collection (or parts thereof) needs processing, to what level it should be processed, and what priority status should be assigned. Assuming further processing is needed, a [Processing Queue](02_03_archivesspace.md#processing-queue) event is created to indicate the collection is part of the processing queue rather than fully processed and completed.
+4. **Collection Archivist** makes notes regarding actions (discards, transfers, etc.) in the [ArchivesSpace resource record](02_03_resources.md) and specifies if the collection (or parts thereof) needs processing, to what level it should be processed, and what priority status should be assigned. Assuming further processing is needed, a [Processing Queue](../03_shared/03_02_events.md#processing-queue) event is created to indicate the collection is part of the processing queue rather than fully processed and completed.
 
-If no further processing is determined, further action is not required beyond the archivist creating a [Processed](02_03_archivesspace.md#processed) event. The collection is considered complete until such time as reappraisal is deemed necessary.
+If no further processing is determined, further action is not required beyond the archivist creating a [Processed](../03_shared/03_02_events.md#processed) event. The collection is considered complete until such time as reappraisal is deemed necessary.
 
 !!! info "AV Transfers"
     ***AV transfers** should adhere to processing procedures (i.e., material too large for stacks shelves and machine-dependent media – see [Audiovisual Formats](02_02_special-formats.md#audiovisual) for specifics).
@@ -50,12 +50,12 @@ Regardless of level, processing should generally follow the steps outlined in th
     3. Note any existing inventory.
     4. Make notes of any pertinent information that can be used in the finding aid (i.e., accession date).
 2.	Consult ArchivesSpace for additional information (accession record, agent(s), etc.) and updated records: 
-    1. Revise (or create) an [ArchivesSpace resource record](02_03_archivesspace.md), and begin recording information in the fields, including the [Collection Management](02_03_archivesspace.md#collection-management) subrecord (Processing Priority, Processing Plan, Processor, and Processing hrs/unit Estimate), Note that not all fields can be filled out until processing is completed, and some will change (e.g, dates, extent).
+    1. Revise (or create) an [ArchivesSpace resource record](02_03_resources.md), and begin recording information in the fields, including the [Collection Management](02_03_resources.md#collection-management) subrecord (Processing Priority, Processing Plan, Processor, and Processing hrs/unit Estimate), Note that not all fields can be filled out until processing is completed, and some will change (e.g, dates, extent).
     2. Update the associated event(s):
        1. From the resource record, select the Related Accession record (if there are multiple Related Accession records, select the first one).
        2. In the Related Accession Record, select Events from the side nav.
-       3. Select Edit in the [Processing New](02_03_archivesspace.md#processing-new) event 
-       4. In the Processing New event’s edit screen, change event type to [Processing In Progress](02_03_archivesspace.md#processing-in-progress), and link the related resource record.
+       3. Select Edit in the [Processing New](../03_shared/03_02_events.md#processing-new) event 
+       4. In the Processing New event’s edit screen, change event type to [Processing In Progress](../03_shared/03_02_events.md#processing-in-progress), and link the related resource record.
        5. If there are multiple accessions being processed:
           1. Link all of these Related Accessions to this single Processing In Progress event record.
           2. Delete the individual Processing New event records linked to each Related Accession.[^2]
@@ -78,7 +78,7 @@ Regardless of level, processing should generally follow the steps outlined in th
     2. If there is no donor agreement, adhere to deaccessioning section of the *Collection Policy*[^3].  Actions include attempting to contact the donor to ask about returning materials, transferring materials to another repository, and destruction.
         1. For non-historical materials that may have monetary value, where you cannot establish contact with the donor, materials may be donated or transferred to another institution. If you are unclear discuss with the director and/or the Collections Team.
         2. Materials that pose a potential threat to staff and researchers should be transferred to Wayne State University’s Department of Public Safety or Office of Risk Management.
-    3. Document the deaccession: Create and link a [Deaccession Event](02_03_archivesspace.md#deaccession) to the resource record, explaining how and why the material was deaccessioned. If returning materials to the donor, include [Certificate of Records Return to Donor](https://waynestateprod.sharepoint.com/:w:/r/sites/Libraries/Reuther/Documents/Collections/Collection%20Management/Donor_return_certificate.docx), which documents the material being returned (i.e., type of material and amount), and have both the donor and Reuther Library representative sign. Retain a signed copy in the case file.
+    3. Document the deaccession: Create and link a [Deaccession Event](../03_shared/03_02_events.md#deaccession) to the resource record, explaining how and why the material was deaccessioned. If returning materials to the donor, include [Certificate of Records Return to Donor](https://waynestateprod.sharepoint.com/:w:/r/sites/Libraries/Reuther/Documents/Collections/Collection%20Management/Donor_return_certificate.docx), which documents the material being returned (i.e., type of material and amount), and have both the donor and Reuther Library representative sign. Retain a signed copy in the case file.
     4.  Remove the box(es) from your processing area. Contact the Reuther Coordinator to take the boxes to receiving. If materials will be returned to the donor, or sent to Public Safety/Office of Risk Management contact the appropriate individual(s), and ensure materials arrive safely.
 
 [^3]: SharePoint: Reuther Library > Active Records > Collections > Acquisitions_Accessions >  2018 Final > CollectionPolicy_2019Review.pdf
@@ -252,20 +252,18 @@ Make note of important subjects or names and biographical or historical informat
 ## Description Workflow
 When a collection has been processed (i.e. arranged), the next step is to create a finding aid (i.e., description) so it can be made accessible. To do this, complete the following steps:
 
-1.	Create a DACS compliant description and enter into the collection’s [ArchivesSpace resource record](02_03_archivesspace.md), using the appropriate template text based on the processing level (1, 2, or 3).
+1.	Create a DACS compliant description and enter into the collection’s [ArchivesSpace resource record](02_03_resources.md), using the appropriate template text based on the processing level (1, 2, or 3).
 
-2.	[Create an inventory](02_03_archivesspace.md#create-inventory-in-excel) (box/folder list) using the [Excel inventory template](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/FA_Inventories.xlsx), and follow the instructions to create an [inventory-only EAD](02_03_archivesspace.md#turn-text-inventory-into-ead).
+2.	[Create an inventory](02_04_archival_objects.md) (box/folder list) using one of the detailed methods
 
-3.	[Import](02_03_archivesspace.md#import-ead-inventory-into-archivesspace) the inventory-only EAD into ArchivesSpace. Then merge  the newly created inventory-only resource record into the original ArchivesSpace resource record. A [Component Transfer](02_03_archivesspace.md#component-transfer) event is automatically created by ASpace, recording that the inventory-only resource record successfully merged into the description-only resource record.
+3.	Update the [Processing in Progress](../03_shared/03_02_events.md#processing-in-progress) event to [Processed](../03_shared/03_02_events.md#processed). If the collection has any restrictions that requires all or a portion of it be closed, add a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event. If the collection was only partially processed, add a [Processing Partial](../03_shared/03_02_events.md#processing-partial) event.
 
-4.	Update the [Processing in Progress](02_03_archivesspace.md#processing-in-progress) event to [Processed](02_03_archivesspace.md#processed). If the collection has any restrictions that requires all or a portion of it be closed, add a [Temporarily Closed](02_03_archivesspace.md#temporarily-closed) event. If the collection was only partially processed, add a [Processing Partial](02_03_archivesspace.md#processing-partial) event.
-
-5.	Complete the [Collection Checklist](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Collection Management/Collection_checklist.doc), and place it in the digital case file (Digital_Hold > Central > Collection_Management_Tools > Accessions > CaseFiles), and hard copy case file, if applicable. 
+4.	Complete the [Collection Checklist](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Collection Management/Collection_checklist.doc), and place it in the digital case file (Digital_Hold > Central > Collection_Management_Tools > Accessions > CaseFiles), and hard copy case file, if applicable. 
 
 ## Finding Aid
 1.	Complete collection description based on the Level I, Level II or Level III procedures and template text provided in the ArchivesSpace: Resource Record.
 
-2.	Describe your arrangement scheme and create the [inventory](02_03_archivesspace.md#inventories-for-archivesspace). Number folders and boxes as you go.
+2.	Describe your arrangement scheme and create the [inventory](02_04_archival_objects.md). Number folders and boxes as you go.
 
 3.	Consult the reference file you’ve created from notes taken during the [preliminaries](#preliminaries) and processing, as well as your inventory, to complete the front matter of the finding aid (e.g. title through scope & content). 
 
@@ -274,7 +272,7 @@ When a collection has been processed (i.e. arranged), the next step is to create
 5.	Edit and revise the drafts of your series descriptions written up while processing **(Skip this step for Level II & III)** within the Resource Record > Notes > Scope and Content.
 
 ## Completion
-1.	Complete the ArchivesSpace Resource Record [Collection Management Subrecord](02_03_archivesspace.md#collection-management) (Processing Total Extent, Extent Type, Total Processing Hours, Funding Source).
+1.	Complete the ArchivesSpace Resource Record [Collection Management Subrecord](02_03_resources.md#collection-management) (Processing Total Extent, Extent Type, Total Processing Hours, Funding Source).
 
 2.	Discarding Sensitive Materials and Materials to remove from collection (duplicates, blank pieces of paper, irrelevant materials, etc.):
     1. Shred Sensitive materials:
