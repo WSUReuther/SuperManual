@@ -29,7 +29,8 @@ Adhere to procedures in step 3 if determination merits metadata creation.
     - When folder contains an excessive number of scans, then split PDF into multiple obects while attempting to maintain natural divisions found in source material
 2. Scan to TIFF for preservation purposes, i.e. material is in poor condition, to create a primary or "master" copy, as a part of a project specification
     - 600 dpi is typical
-    - scan to grayscale or color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)
+    - scan to color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)
+    - scan to grayscale or black and white if deemed sufficent at the beginning of a task, job, or larger project
     - Both LZW and ZIP compressions are acceptable on TIFF captures for manuscript materials; ZIP is preferred for its superior algorithm; Do NOT use LZW with 16 bit or higher settings
     - Try to maintain one TIFF file per leaf in folder; Avoid using muti-page TIFF
 3. File name follows this convention:
