@@ -23,10 +23,14 @@ Adhere to procedures in step 3 if determination merits metadata creation.
 
 ### File Creation
 1. Scan to PDF for most quick turn-around applications, which includes scanning for access purposes and for answering most remote reference material requests
-    a. 300 or 400 dpi is sufficent 
-    b. scan to color unless otherwise specified
-    c. Try to maintain one pdf per folder ratio
-    d. When folder contains an excessive number of scans, then split PDF into multiple obects while attempting top maintain natural divisions found in source materials
+<p>
+<ol>
+    <li>300 or 400 dpi is sufficent</li>
+    <li>scan to color unless otherwise specified</li>
+    <li>Try to maintain one pdf per folder ratio</li>
+    <li>When folder contains an excessive number of scans, then split PDF into multiple obects while attempting top maintain natural divisions found in source materials</li>
+<ol>
+</p>
 2. Scan to TIFF for preservation purposes, i.e. material is in poor conditions, to create a primary or "master" copy, as a part of a project specification
     a. 600 dpi is typical 
     b. scan to grayscale or color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)
