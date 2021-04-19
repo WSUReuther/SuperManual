@@ -22,8 +22,17 @@ Adhere to procedures in step 3 if determination merits metadata creation.
     SharePoint: Teams and Depts > Reuther Library > Committees and Teams > Collections Team > Priority  Lists > Digitize_Priorities
 
 ### File Creation
-1. Scan to PDF unless scanning to TIFF for preservation purposes (e.g., material is in poor conditions and needs to be preserved).
-2. File name follows this convention:
+1. Scan to PDF for most quick turn-around applications, which includes scanning for access purposes and for answering most remote reference material requests
+    a. 300 or 400 dpi is sufficent 
+    b. scan to color unless otherwise specified
+    c. Try to maintain one pdf per folder ratio
+    d. When folder contains an excessive number of scans, then split PDF into multiple obects while attempting top maintain natural divisions found in source materials
+2. Scan to TIFF for preservation purposes, i.e. material is in poor conditions, to create a primary or "master" copy, as a part of a project specification
+    a. 600 dpi is typical 
+    b. scan to grayscale or color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)
+    c. Both LZW and ZIP compressions are acceptable on TIFF captures for manuscript materials; ZIP is preferred for its superior algorithm; Do NOT use LZW with 16 bit or higher settings
+    d. Try to maintain one TIFF file per scan; Avoid using Muti-page TIFF
+3. File name follows this convention:
 
     **Accession#_Part#_Series#_Subseries#_Box#_Folder#_Item#**
 
@@ -38,7 +47,7 @@ Adhere to procedures in step 3 if determination merits metadata creation.
     | LR001000_00_00_0_001_001_001 | an accession with no parts, no series, and no subseries |
     | LR001000_00_00_0_001_001_015_001 | an accession with no part, no series, and no subseries, with folders described in a range in the finding aid |
 
-    - All file names have the same number of decimal places following the accession number for machine-readable files, regardless of whether there is data to input, such as part or series numbers. Zeroes become placeholders in the event that no data is available.
+    - All file names have the same number of character places following the accession number for machine-readable files, regardless of whether there is data to input, such as part or series numbers. Zeroes become placeholders in the event that no data is available.
 
     - If the entire contents of a folder can be scanned as one multipage PDF, then there will only be one item # used.
 
