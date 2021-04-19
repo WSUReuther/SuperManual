@@ -25,13 +25,13 @@ Adhere to procedures in step 3 if determination merits metadata creation.
 1. Scan to PDF for most quick turn-around applications, which includes scanning for access purposes and for answering most remote reference material requests
     - 300 or 400 dpi is sufficent
     - scan to color unless otherwise specified
-    - Try to maintain one pdf per folder ratio
-    - When folder contains an excessive number of scans, then split PDF into multiple obects while attempting top maintain natural divisions found in source materials
+    - Try to maintain one pdf per one folder ratio
+    - When folder contains an excessive number of scans, then split PDF into multiple obects while attempting to maintain natural divisions found in source materials
 2. Scan to TIFF for preservation purposes, i.e. material is in poor conditions, to create a primary or "master" copy, as a part of a project specification
     - 600 dpi is typical
     - scan to grayscale or color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)
     - Both LZW and ZIP compressions are acceptable on TIFF captures for manuscript materials; ZIP is preferred for its superior algorithm; Do NOT use LZW with 16 bit or higher settings
-    - Try to maintain one TIFF file per scan; Avoid using Muti-page TIFF
+    - Try to maintain one TIFF file per leaf in folder; Avoid using muti-page TIFF
 3. File name follows this convention:
 
     **Accession#_Part#_Series#_Subseries#_Box#_Folder#_Item#**
