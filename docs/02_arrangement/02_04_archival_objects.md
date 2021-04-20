@@ -17,10 +17,14 @@ An Archival Object corresponding to an actual manifestation of archival material
 
 Additionally, Archival Objects may have various other elements as needed, including:
 
-- [Notes](../03_shared/03_04_notes.md) (Scope and Contents, Conditions Governing Access, etc.)
+- [Notes](../03_shared/03_04_notes.md) (Scope and Contents, Conditions Governing Access, Physical Description, etc.)
 - Extents
   
-When adding descriptive elements to Archival Objects, adhere to the principle of inheritance: add additional description *only if* the information is different or more specific than that at a higher level. 
+When adding descriptive elements to Archival Objects, adhere to the principle of inheritance: add additional description *only if* the information is different or more specific than that at a higher level.
+
+### Date Guidelines
+
+--8<-- "dates.md"
 
 ## Creating Archival Objects
 This section describes the process by which individual Archival Objects can be added. 
@@ -127,19 +131,19 @@ Each row following the mapping/field code rows will create one Archival Object i
 - `ead:` The ead column must exactly match the [Resource-level EAD ID](02_03_resources.md#finding-aid-data) (which should itself match the accession numnber). This is how the spreadsheet importer ensures that the spreadsheet being imported contains Archival Objects intended for the selected Resource.
 - `hierarchy`: The hiearchy column is used to specify the hierarchical relationship of the Archival Objects within the spreadsheet. Rows with a hierarchy of 1 will be added at the first level (e.g., a series). Rows that follow that row with a hierarchy of 2 will be added at the second level, as children of the hierarchy 1 row (e.g., a sub-series) until the next hierarchy 1 row. Rows with a hierarchy of 3 following the hierarchy 2 rows will be added as children of the preceeding hierarchy 2 row, and so on. To illustrate this, the contents of the following table would result in the ArchivesSpace hierarchy in the proceeding image. 
 
-| title | hierarchy | level |
-| --- | --- | --- |
-| Series 1: Personal materials | 1 | Series |
-| Correspondence | 2 | Sub-series |
-| 1990-1995 | 3 | File |
-| 1995-2000 | 3 | File |
-| Biographical materials | 2 | Sub-series |
-| Awards and certificates | 3 | File |
-| Degrees | 3 | File |
-| Series 2: Professional career | 1 | Series |
-| Affiliations | 2 | Sub-series |
-| An organization | 3 | File |
-| Another organization | 3 | File |
+| title | expression | hierarchy | level |
+| --- | --- | --- | --- |
+| Series 1: Personal materials | | 1 | Series |
+| Correspondence | | 2 | Sub-series |
+| | 1990-1995 | 3 | File |
+| | 1995-2000 | 3 | File |
+| Biographical materials | | 2 | Sub-series |
+| Awards and certificates | | 3 | File |
+| Degrees | | 3 | File |
+| Series 2: Professional career | | 1 | Series |
+| Affiliations | | 2 | Sub-series |
+| An organization | | 3 | File |
+| Another organization | | 3 | File |
 
 ![Bulk Import Result](../img/aspace_bulk_import.png)
 
