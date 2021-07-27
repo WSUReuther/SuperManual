@@ -334,21 +334,19 @@ Material such as charts, maps, diplomas, and certificates should usually be remo
 	3. Box/Folder listing – if items are to be shelved along with the rest of the collection in the main stacks, include a list of their contents in this section, where appropriate (e.g. as part of a series or as their own stand-alone series).
 
 ## Born-Digital Materials
-Born-digital material may comprise the entire collection or be only a portion of the collection (i.e., a hybrid collection). Additionally, born-digital materials may have been accessioned as such (transferred or directly captured) and already transferred into Archivematica, or born-digital materials such as electronic storage material may be found later during processing. This section provides procedures to accommodate both situations.
+Born-digital material may comprise the entire collection or be only a portion of the collection (i.e., a hybrid collection). Additionally, born-digital materials may have been accessioned as such (transferred or directly captured) and already transferred into the Reuther's digital backlog, or born-digital materials such as electronic storage material may be found later during processing. This section provides procedures to accommodate both situations.
 
-For hybrid collections, it is ideal for born-digital material to be processed in parallel with paper-based material, with the materials integrated in both description and intellectual arrangement. However, there are some instances where it may be more appropriate to segregate digital materials based on format, similar to AV materials (i.e., a hybrid collection where the bulk of the materials are paper, and there are only a few digital items). 
+For hybrid collections, it is ideal for born-digital material to be processed in parallel with paper-based material, with the materials integrated in both description and intellectual arrangement.
 
 ### Electronic Storage Media
-Material such as hard drives, floppy discs, optical discs (CDs and DVDs), and flash drives should have their contents transferred into Archivematica (and optionally imaged) and evaluated in the same manner as analog material.
+Material such as hard drives, floppy disks, optical discs (CDs and DVDs), and flash drives should have their contents transferred off of the storage media and evaluated in the same manner as analog material.
 
-1.	If the electronic storage media was not previously transferred to Archivematica during Accessioning:
-	1. [Stabilize](../01_accessioning.md#how-to-accession-a-collection) the digital materials (Accessioning step 4). 
+1.	If the electronic storage media was not transferred during Accessioning:
+	1. [Transfer](../01_accessioning/01_03_born-digital_transfer.md) the digital materials. 
 	2. Obsolete storage media should be discarded post-processing.
 2.	If the collection is “hybrid” (contains both paper and electronic storage media):
 	1. For small amounts of digital material found within folders, separate it from the body of the collection, noting any accompanying records for context. If appropriate, a slip of bond paper with a penciled or typed notation of its disposition should be placed in the folder in which the item would belong.
-	2. Electronic media found loose in the collection (i.e., not in a specific folder):
-		1. For large amounts of material: treat the same as the paper material, integrating the materials in the intellectual arrangement and description.
-		2. For small amounts of material: Create a separate section at the end of the inventory (similar to audiovisual materials), called, “Reuther Digital Repository.” In this section, list digital materials in the following format: Disk Title [description], File Title. This is where the digital objects will be paired in the inventory. 
+	2. Electronic media found loose in the collection (i.e., not in a specific folder), treat the same as the paper material, integrating the materials in the intellectual arrangement and description.
 3.	Proceed to the All Digital Materials section below to create the AIP in Archivematica.
 
 ### All Digital Materials

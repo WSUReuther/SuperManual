@@ -5,7 +5,7 @@ Post-accessioning, if collections cannot be immediately processed at one of the 
 
 1. **Collection Archivist** opens the collection within 90 days.
    
-    1. Create an [ArchivesSpace resource record](02_03_resources.md) using collection-level description (copy and paste any relevant info from [ArchivesSpace accession record](../01_accessioning.md#archivesspace-accession-records)).
+    1. Create an [ArchivesSpace resource record](02_03_resources.md) using collection-level description (copy and paste any relevant info from [ArchivesSpace accession record](../01_accessioning/01_02_archivesspace_accessions.md)).
 
     !!! note
         - *If the collection is an addition*, the existing ArchivesSpace resource record will be edited instead, to incorporate the new part. ArchivesSpace will amalgamate a new inventory onto the end of the current inventory list. 

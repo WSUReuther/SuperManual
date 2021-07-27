@@ -17,7 +17,10 @@ markdown_extensions:
         permalink: true
 
 nav:
-    - Section 1 - Accessioning: 01_accessioning.md
+    - Section 1 - Accessioning:
+        - a. Overview: 01_accessioning/01_01_overview.md
+        - b. ArchivesSpace Accessions: 01_accessioning/01_02_archivesspace_accessions.md
+        - c. Born-Digital Transfer: 01_accessioning/01_03_born-digital_transfer.md
     - Section 2 -  Arrangement and Description:
         - a. General: 02_arrangement/02_01_general.md
         - b. Special Formats: 02_arrangement/02_02_special-formats.md
