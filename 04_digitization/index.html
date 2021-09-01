@@ -150,10 +150,64 @@
       
 
 
-  <li class="md-nav__item">
-    <a href="../01_accessioning/" title="Section 1 - Accessioning" class="md-nav__link">
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1">
+    
+    <label class="md-nav__link" for="nav-1">
       Section 1 - Accessioning
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Section 1 - Accessioning" data-md-level="1">
+      <label class="md-nav__title" for="nav-1">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        </span>
+        Section 1 - Accessioning
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../01_accessioning/01_01_overview/" title="a. Overview" class="md-nav__link">
+      a. Overview
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../01_accessioning/01_02_archivesspace_accessions/" title="b. ArchivesSpace Accessions" class="md-nav__link">
+      b. ArchivesSpace Accessions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../01_accessioning/01_03_born-digital_transfer/" title="c. Born-Digital Transfer" class="md-nav__link">
+      c. Born-Digital Transfer
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -314,8 +368,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../03_shared/03_05_instances/" title="e. Instances / Containers" class="md-nav__link">
-      e. Instances / Containers
+    <a href="../03_shared/03_05_instances/" title="e. Instances (Containers and Digital Objects)" class="md-nav__link">
+      e. Instances (Containers and Digital Objects)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../03_shared/03_06_reports/" title="f. ArchivesSpace Reports" class="md-nav__link">
+      f. ArchivesSpace Reports
     </a>
   </li>
 
@@ -536,7 +602,21 @@
 <p>Adhere to procedures in step 3 if determination merits metadata creation.</p>
 <h3 id="file-creation">File Creation<a class="headerlink" href="#file-creation" title="Permanent link">&para;</a></h3>
 <ol>
-<li>Scan to PDF unless scanning to TIFF for preservation purposes (e.g., material is in poor conditions and needs to be preserved).</li>
+<li>Scan to PDF for most quick turn-around applications, which includes scanning for access purposes and for answering most remote reference material requests<ul>
+<li>300 or 400 dpi is sufficent</li>
+<li>scan to color unless otherwise specified</li>
+<li>Try to maintain one pdf per one folder ratio</li>
+<li>When folder contains an excessive number of scans, then split PDF into multiple objects while attempting to maintain natural divisions found in source material</li>
+</ul>
+</li>
+<li>Scan to TIFF for preservation purposes, i.e. material is in poor condition, to create a primary or "master" copy, as a part of a project specification<ul>
+<li>600 dpi is typical</li>
+<li>scan to color -- 8 and 16 bit is typically sufficent (higher bit depths ought to be reserved for still images, photo negatives, slides, etc.)</li>
+<li>scan to grayscale or black and white if deemed sufficent at the beginning of a task, job, or larger project</li>
+<li>Both LZW and ZIP compressions are acceptable on TIFF captures for manuscript materials; ZIP is preferred for its superior algorithm; Do NOT use LZW with 16 bit or higher settings</li>
+<li>Try to maintain one TIFF file per leaf in folder; Avoid using muti-page TIFF</li>
+</ul>
+</li>
 <li>
 <p>File name follows this convention:</p>
 <p><strong>Accession#_Part#_Series#_Subseries#_Box#_Folder#_Item#</strong></p>
@@ -570,7 +650,7 @@
 </table>
 <ul>
 <li>
-<p>All file names have the same number of decimal places following the accession number for machine-readable files, regardless of whether there is data to input, such as part or series numbers. Zeroes become placeholders in the event that no data is available.</p>
+<p>All file names have the same number of character places following the accession number for machine-readable files, regardless of whether there is data to input, such as part or series numbers. Zeroes become placeholders in the event that no data is available.</p>
 </li>
 <li>
 <p>If the entire contents of a folder can be scanned as one multipage PDF, then there will only be one item # used.</p>
@@ -772,7 +852,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../03_shared/03_05_instances/" title="e. Instances / Containers" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../03_shared/03_06_reports/" title="f. ArchivesSpace Reports" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -781,7 +861,7 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                e. Instances / Containers
+                f. ArchivesSpace Reports
               </div>
             </div>
           </a>
