@@ -67,8 +67,8 @@ Outlined below is the workflow followed for each incoming collection.
 
 Accession numbers will follow an alphanumeric formula: 
 
-* A 2-4 letter prefix denoting the top-level record group (i.e., labor, urban, or university) and primary department of administration (i.e., Manuscripts & Records, Audiovisual, Oral history, or Library)
-* A numeric code (with leading zeros to allow for 6 spaces) 
+* A prefix denoting the top-level record group (i.e., labor = L, urban = U, or Wayne State University = WS) and primary department of administration (i.e., organizational records = R, manuscript or personal papers = P, audiovisual = AV, or oral history = OH)
+* A numeric 6-digit code 
 
 The result is an 8-10 digit accession number, depending on length of the prefix.
 
@@ -81,7 +81,7 @@ For example:
 | Stephen Lighthill Film Collection | UAV001622 |
 | WSU Office of the President: Clarence Hilberry | WSR000001 |
 
-AV, library, or oral history material accessioned as part of a manuscript or records collection will maintain that collection’s accession number regardless of whether the material is physically separated (e.g., LR000100 not LAV000100 for audio tapes from a labor collection that are sent to the AV department for storage) or comes in as an accrual (e.g., LR000100 not LOH000100 for oral histories). The only exception is for legacy collections that were previously processed whose material was physically separated.  In these cases, when describing the AV, oral history, or library materials, use the same numeric code as the associated manuscript or record collection, but apply the prefix for the material type. 
+AV or oral history material accessioned as part of a manuscript or records collection will maintain that collection’s accession number regardless of whether the material is physically separated or comes in as an accrual (e.g., a labor collection with the accession number LR000100 containing oral history audio tapes that are sent to the AV department for storage retains that accession number and is not assigned LAV000100 or LOH000100). The only exception is for legacy collections that were previously processed whose material was physically separated. In these cases, when describing the AV or oral history materials, use the same numeric code as the associated manuscript or record collection, but apply the prefix for the material type.
 
 For example:
 
@@ -91,7 +91,7 @@ For example:
 | Jerome Cavanagh Photographs | UAV000379 |
 | Jerome Cavanagh Library | UL000379 |
 
-A collection’s numeric code is derived from the sequential numbering system already in place in the [Accession Numbers spreadsheet](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Acquisitions_Accessions/Accession_numbers.xlsx?d=wd0f64af0ad7640d8a428a1039d0448d8&csf=1&web=1&e=agLa9o). A new collection is assigned the next number in the sequence. Deposits or donations from one donor are assigned numbers per department or individual, NOT one all encompassing number. Accruals from one department/individual will be tracked by date received.
+A collection’s numeric code is derived from the sequential numbering system already in place in the [Accession Numbers spreadsheet](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Acquisitions_Accessions/Accession_numbers.xlsx?d=wd0f64af0ad7640d8a428a1039d0448d8&csf=1&web=1&e=agLa9o). A new collection is assigned the next number in the sequence. Deposits or donations from larger organizational donors, such as the UAW or AFT, are assigned numbers per department or individual, NOT one all-encompassing number. Accruals from one department/individual will be tracked by date received.
 
 ### Prefixes
 
@@ -111,8 +111,10 @@ A collection’s numeric code is derived from the sequential numbering system al
 | WSP | Wayne State papers |
 | WSAV | Wayne State audiovisual |
 | WSOH  | Wayne State oral histories |
-| WSL | Wayne State library |
+| *WSL | Wayne State library |
+
+*Note: Historically, the Reuther Library has accepted books for the Library and assigned them separate prefixes, but this practice has been discontinued.
 
 Oral histories that come in as reference duplicates or discrete projects require their own accession record. When applicable, oral histories will be accessioned on a project basis. In those cases, each individual interview will require a suffix to the accession number. These should be sequential numbers, beginning with 1 and separated from the main accession number by a period (.). For example, an urban oral history project given the numeric code of “100” and containing 10 interviews would include the following accession numbers: UOH000100.1, UOH000100.2, UOH000100.3, etc.
 
-Collections processed prior to August 2011 may also have alpha suffixes to differentiate separate collections with the same numeric code. These will be separated by an underscore (_) and consist of acronyms or names denoting an office or person. A good example:  **LR000221_AWOC** refers to the UFW Agriculture Workers Organizing Committee Records while **LR000221_velasco** refers to the UFW Vice President: Peter Velasco Records.
+Collections processed prior to August 2011 may also have alpha suffixes to differentiate separate collections with the same numeric code. These will be separated by an underscore (_) and consist of acronyms or names denoting an office or person. For example: LR000221_AWOC refers to the UFW Agriculture Workers Organizing Committee Records while LR000221_velasco refers to the UFW Vice President: Peter Velasco Records.
