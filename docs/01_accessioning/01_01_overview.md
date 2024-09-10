@@ -9,9 +9,9 @@
 The Reuther Library accessions incoming archival collections with the following goals in mind: 
  
 1.	To **open** unrestricted collections as soon as possible after their arrival at the archives. 
-2.	To provide collection-level description with minimal inventory (if supplied by donor or field archivist) for every collection that can be opened immediately. 
-3.	To incorporate MPLP into accessioning and effectively merge accessioning with processing. 
-4.	To reduce space issues by preventing non-historical material from being shelved in the stacks and saved on digital storage devices. 
+2.	To **provide** collection-level description with minimal inventory (if supplied by donor or field archivist) for every collection that can be opened immediately. 
+3.	To **incorporate** MPLP into accessioning and effectively merge accessioning with processing. 
+4.	To **reduce space** issues by preventing non-historical material from being shelved in the stacks and saved on digital storage devices. 
 
 ## Accession Types
 
@@ -21,7 +21,7 @@ The Reuther Library accessions incoming archival collections with the following 
 
 ## Accessioning Workflow
 
-Accessioning is a combined effort between the Collection Archivist or Field Archivist (whichever is applicable), the Reuther Facility Coordinator, and the Digital Curation and Preservation Archivist. Collection Archivists are responsible for their own accessioning (this includes born-digital and AV materials). The Field Archivist is responsible for accessioning all collections without a dedicated collection archivist. 
+Accessioning is a combined effort between the **Collection Archivist** or **Field Archivist** (whichever is applicable), the Reuther **Facility Coordinator**, and the **Digital Curation and Preservation Archivist**. Collection Archivists are responsible for their own accessioning (this includes born-digital and AV materials). The Field Archivist is responsible for accessioning all collections without a dedicated collection archivist. 
 
 Outlined below is the workflow followed for each incoming collection.
 
@@ -35,7 +35,7 @@ Outlined below is the workflow followed for each incoming collection.
 3. If the accession contains born-digital materials:
       1. **Field/Collection Archivist** notifies the Digital Curation and Preservation Archivist that an accession containing born-digital material is expected
       2. Field/Collection Archivist identifies and conducts initial appraisal on born-digital material to be transferred
-      3. If the born-digital materials are on physical storage media (CDs, DVDs, hard drives, etc.), the Field/Collection Archivist oversees physical transfer of materials as above including affixing a label with the collection title and accession number to all physical storage media **AND** taking a photograph of all physical storage media for representative evidentiary purposes
+      3. If the born-digital materials are on physical storage media (CDs, DVDs, hard drives, etc.), the **Field/Collection Archivist** oversees physical transfer of materials as above including affixing a label with the collection title and accession number to all physical storage media **AND** taking a photograph of all physical storage media for representative evidentiary purposes
       4. If the born-digital materials are on a network location (the Internet, cloud storage, an organization's shared drive, etc.), **Field/Collection Archivist** and/or **Digital Curation and Preservation Archivist** oversees and carries out the direct transfer of digital materials following appraisal
 4. **Field/Collection Archivist** is responsible for:
       1. Obtaining an [accession number](#accession-numbers) (if not previously done)
