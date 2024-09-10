@@ -8,58 +8,63 @@
 
 The Reuther Library accessions incoming archival collections with the following goals in mind: 
  
-1. To **open** unrestricted collections within 90 days of their arrival at the archives. Exceptions include those with restrictions, some accruals, and large collections. 
-2. To provide collection level description with minimal inventory information (if supplied by donor or field archivist) about every collection in the archives. 
-3. To incorporate MPLP into accessioning and affectively merge accessioning with processing. 
-4. To reduce space issues by preventing non-historical material from being shelved in the stacks and saved on digital storage devices. 
-5. To alleviate backlog issues and enhance researcher accessibility to collections. 
-6. To streamline the accessioning process and remove barriers to effective collection management.
+1.	To **open** unrestricted collections as soon as possible after their arrival at the archives. 
+2.	To provide collection-level description with minimal inventory (if supplied by donor or field archivist) for every collection that can be opened immediately. 
+3.	To incorporate MPLP into accessioning and effectively merge accessioning with processing. 
+4.	To reduce space issues by preventing non-historical material from being shelved in the stacks and saved on digital storage devices. 
 
 ## Accession Types
 
-1. **New**: material received for a collection that is only now being established, i.e., the Reuther has not received any collection materials previously
-2. **Addition**: material received for an established collection that was previously thought complete
-3. **Accrual**: material received for a collection that receives ongoing deposits
+1.	**New**: material for a newly established collection or that has not been received by the Reuther previously 
+2.	**Addition**: material received for an established collection that was previously thought complete
+3.	**Accrual**: material received for a collection that receives ongoing deposits
 
 ## Accessioning Workflow
 
-Accessioning is a combined effort between the Collection Archivist or Field Archivist (whichever is applicable), the Reuther Facilities Coordinator, and the Technical Services Archivist. Collection Archivists are responsible for their own accessioning (this includes AV materials). The Field Archivist is responsible for everything else.  
+Accessioning is a combined effort between the Collection Archivist or Field Archivist (whichever is applicable), the Reuther Facility Coordinator, and the Digital Curation and Preservation Archivist. Collection Archivists are responsible for their own accessioning (this includes born-digital and AV materials). The Field Archivist is responsible for accessioning all collections without a dedicated collection archivist. 
 
 Outlined below is the workflow followed for each incoming collection.
 
 1. **Field/Collection Archivist** conducts any required pre-transfer appraisal, donor negotiations, etc.
+      1. For new accessions (i.e. not accruals or additions) conducted by a Collection Archivist, consult with the Field Archivist regarding the Deed of Gift/Deposit Agreement
+      2. Only the Director can sign completed Deed of Gifts/Deposit Agreements
+      3. The Deed of Gift/Deposit Agreement needs to be in place before materials are transferred to the Reuther   
 2. If the accession contains physical materials:
       1. **Field/Collection Archivist** notifies the Facilities Coordinator know that a shipment of materials is expected
       2. **Facilities Coordinator** notifies the Field/Collection Archivist by email the day a shipment arrives
 3. If the accession contains born-digital materials:
-      1. **Field/Collection Archivist** notifies the Technical Services Archivist that an accession containing born-digital material is expected
-      2. If the born-digital materials are on physical storage media (CDs, DVDs, hard drives, etc.), **Field/Collection Archivist** oversees physical transfer of materials as above
-      3. If the born-digital materials are on a network location (the Internet, cloud storage, an organization's shared drive, etc.), **Field/Collection Archivist** or **Technical Services Archivist** oversees and carries out the direct transfer of digital materials
-4. **Field/Collection Archivist** obtains an [accession number](#accession-numbers) (if not previously done), creates an [ArchivesSpace accession record](01_02_archivesspace_accessions.md) and linked [Processing New event](../03_shared/03_02_events.md#processing-new) **as soon as possible** after the materials are taken into the Reuther's custody and,
-      1. Completes case file (paper, electronic, or both) with: deposit agreement/deed of gift, correspondence, restrictions, inventory (if provided), and original/draft transcripts (if oral history)
-      2. Begins a [collection checklist](https://waynestateprod.sharepoint.com/:w:/r/sites/Libraries/Reuther/Documents/Collections/Collection%20Management/Collection_checklist.doc?d=wd7229a74ba234273b8a1d4ace6df7e5a&csf=1&web=1&e=6XhUQn) and files it in the electronic case file
+      1. **Field/Collection Archivist** notifies the Digital Curation and Preservation Archivist that an accession containing born-digital material is expected
+      2. Field/Collection Archivist identifies and conducts initial appraisal on born-digital material to be transferred
+      3. If the born-digital materials are on physical storage media (CDs, DVDs, hard drives, etc.), the Field/Collection Archivist oversees physical transfer of materials as above including affixing a label with the collection title and accession number to all physical storage media **AND** taking a photograph of all physical storage media for representative evidentiary purposes
+      4. If the born-digital materials are on a network location (the Internet, cloud storage, an organization's shared drive, etc.), **Field/Collection Archivist** and/or **Digital Curation and Preservation Archivist** oversees and carries out the direct transfer of digital materials following appraisal
+4. **Field/Collection Archivist** is responsible for:
+      1. Obtaining an [accession number](#accession-numbers) (if not previously done)
+      2. Creating an [ArchivesSpace accession record](01_02_archivesspace_accessions.md) and linked [Processing New event](../03_shared/03_02_events.md#processing-new) as soon as the materials are taken into the Reuther's custody
+      3. Completing the case file with: Deed of Gift/Deposit Agreement, correspondence, documentation of restrictions, inventory (if provided), original/draft transcripts (if oral history), and Donor Checklist for Born-Digital Material (if applicable)
+      4. Beginning a [collection checklist](https://waynestateprod.sharepoint.com/:w:/r/sites/Libraries/Reuther/Documents/Collections/Collection%20Management/Collection_checklist.doc?d=wd7229a74ba234273b8a1d4ace6df7e5a&csf=1&web=1&e=6XhUQn) filed in the electronic case file
 5. For analog materials, the **Field/Collection Archivist**:
-      1. Arranges for the material to be moved to its temporary location (i.e., staging area or archivist’s processing area) 
-      2. If material was not appraised onsite before arrival at the archives, the archivist appraises material and performs minimal weeding and rehousing, if necessary (i.e., preservation or access concerns)
-6. For born-digital materials, the **Technical Services Archivist** stabilizes the material within 90 days
-      1. Transfers content off of physical storage media, if necessary
-      2. Generates preliminary technical and preservation metadata and PII scans
-      3. Transfers content to a shared location for further assessment by the Field/Collection Archivist
-7. **Field/Collection Archivist** determines if material can be immediately opened, requires processing, or must be shelved per restrictions, and proceeds accordingly
-      1. Proceed based on processing next steps: 
-         1. Immediately opening material (no restrictions): [Opening Accessions](../02_arrangement/02_01_general.md#opening-accessions)
-         2. Processing material: [Processing](../02_arrangement/02_01_general.md#processing-levels)
-         3. Leaving as backlog and shelved per restrictions: Update accession record with restriction information and date when material can be processed and opened. Contact Facilities Coordinator to receive physical location or Technical Services Archivist to transfer digital content to a secure backlog location 
-      2. Update [ArchivesSpace accession record](01_02_archivesspace_accessions.md) to include additional information obtained during the appraisal, including but not limited to:
-         1. Basic Information > Content Description
-         2. Basic Information > Condition Description
-         3. Basic Information > Inventory
-         4. Basic Information > Access Restrictions
-         5. Basic Information > Use Restrictions
-         6. Dates
-         7. Extents
-
+      1. Appraises material and performs minimal weeding and rehousing (i.e., preservation or access concerns), if not done previous to transfer
+6. For born-digital materials, the **Digital Curation and Preservation Archivist**:
+      1. Transfers born-digital content from physical storage media or networked storage, normalizing file formats for long-term preservation and access within 90 days of receipt
+      2. Generates metadata, including checksums, file format reports, PII scans, directory trees/file lists
+7. **Field/Collection Archivist** determines if material can be immediately opened, requires additional processing, or must be restricted, and proceeds accordingly:
+      1. Immediately opening material (no restrictions): [Opening Accessions](../02_arrangement/02_01_general.md#opening-accessions)
+      2. Processing material: [Processing](../02_arrangement/02_01_general.md#processing-levels)
+      3. Adding to the backlog and assigning a processing priority:
+         1. Update [ArchivesSpace accession record](01_02_archivesspace_accessions.md) with restriction information and date material can be processed and opened (if applicable)
+         2. Contact Facility Coordinator to receive physical location and/or Digital Curation and Preservation Archivist to transfer digital content to a secure backlog location
+8. **Field/Collection Archivist** Field/Collection Archivist updates ArchivesSpace accession record to include additional information obtained during the appraisal, including but not limited to:
+      1. Basic Information > Content Description
+      2. Basic Information > Condition Description
+      3. Basic Information > Inventory
+      4. Basic Information > Access Restrictions
+      5. Basic Information > Use Restrictions
+      6. Dates
+      7. Extents
+      8. Processing Priority
+         
 ## Accession Numbers
+
 Accession numbers will follow an alphanumeric formula: 
 
 * A 2-4 letter prefix denoting the top-level record group (i.e., labor, urban, or university) and primary department of administration (i.e., Manuscripts & Records, Audiovisual, Oral history, or Library)
