@@ -31,10 +31,10 @@ Outlined below is the workflow followed for each incoming collection.
       3. The Deed of Gift/Deposit Agreement needs to be in place before materials are transferred to the Reuther   
 2. If the accession contains physical materials:
       1. **Field/Collection Archivist** notifies the Facilities Coordinator know that a shipment of materials is expected
-      2. **Facilities Coordinator** notifies the Field/Collection Archivist by email the day a shipment arrives
+      2. **Facilities Coordinator** notifies the **Field/Collection Archivist** by email the day a shipment arrives
 3. If the accession contains born-digital materials:
       1. **Field/Collection Archivist** notifies the Digital Curation and Preservation Archivist that an accession containing born-digital material is expected
-      2. Field/Collection Archivist identifies and conducts initial appraisal on born-digital material to be transferred
+      2. **Field/Collection Archivist** identifies and conducts initial appraisal on born-digital material to be transferred
       3. If the born-digital materials are on physical storage media (CDs, DVDs, hard drives, etc.), the **Field/Collection Archivist** oversees physical transfer of materials as above including affixing a label with the collection title and accession number to all physical storage media **AND** taking a photograph of all physical storage media for representative evidentiary purposes
       4. If the born-digital materials are on a network location (the Internet, cloud storage, an organization's shared drive, etc.), **Field/Collection Archivist** and/or **Digital Curation and Preservation Archivist** oversees and carries out the direct transfer of digital materials following appraisal
 4. **Field/Collection Archivist** is responsible for:
@@ -52,7 +52,7 @@ Outlined below is the workflow followed for each incoming collection.
       2. Processing material: [Processing](../02_arrangement/02_01_general.md#processing-levels)
       3. Adding to the backlog and assigning a processing priority:
          1. Update [ArchivesSpace accession record](01_02_archivesspace_accessions.md) with restriction information and date material can be processed and opened (if applicable)
-         2. Contact Facility Coordinator to receive physical location and/or Digital Curation and Preservation Archivist to transfer digital content to a secure backlog location
+         2. Contact **Facility Coordinator** to receive physical location and/or **Digital Curation and Preservation Archivist** to transfer digital content to a secure backlog location
 8. **Field/Collection Archivist** Field/Collection Archivist updates ArchivesSpace accession record to include additional information obtained during the appraisal, including but not limited to:
       1. Basic Information > Content Description
       2. Basic Information > Condition Description
