@@ -18,20 +18,20 @@ The instructions below can be used both for creating and editing accession recor
 1.	**Title**: Enter [DACS compliant collection title](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html), typically consisting of the creator's name(s) and the type of material. Note that this title may be revised during processing, e.g. an accession of "Jane Smith Photographs" may be processed with other accessions into the "Jane Smith Papers"
 2.	**Identifier***: In the first field, enter the full accession number (including the prefix). In the second field, enter the accession date in YYYYMMDD format. Leave the third and fourth fields blank.[^1]
 3.	**Accession Date***: Enter the accession date, if different than today’s date (YYYY-MM-DD format).
-4.	**Content Description**: Enter a brief overview of what the accession contains, including genre/format information and information about activities, functions, events, etc. related to the creator that are documented within the accession.
-5.	**Condition Description**: Enter a brief overview of the physical and/or digital condition of the material, being sure to note any conservation/preservation issues.
-6.	**Disposition**: Record if any of the materials were removed from this accession into another collection.
-7.	**Inventory**: Record whether or not there is an inventory for this accession.
+4.	**Publish?** Do **NOT** check.
+5.	**Content Description**: Enter a brief overview of what the accession contains, including genre/format information and information about activities, functions, events, etc. related to the creator that are documented within the accession.
+6.	**Condition Description**: Enter a brief overview of the physical and/or digital condition of the material, being sure to note any conservation/preservation issues.
+7.	**Disposition**: Record if any of the materials were removed from this accession into another collection.
+8.	**Inventory**: Record whether or not there is an inventory for this accession.
 1.  **Provenance**: Record if the collection is new, or an accrual/addition; also record the donor’s name and contact information 
 9.	**General Note**: Record who accessioned the material and any additional notes. If it is unknown who accessioned the material, record: “Accessioned by Walter P. Reuther Library Staff.”
 10.	**Acquisition Type**: Select one: Deposit, Gift, Purchase, Renumber, Transfer
 11.	**Resource Type**: Select one: Collection, Papers, Publications, Records
 12.	**Restrictions Apply?** Check if there are **ANY** restrictions on the collection.
-13.	**Publish?** Do **NOT** check.
-14.	**Access Restrictions?** Check if there are any access restrictions.
-15.	**Access Restrictions Note**: Describe any access restrictions.
-16.	**Use Restrictions?** Check if there are any use restrictions.
-17.	**Use Restrictions Note**: Describe any use restrictions.
+13.	**Access Restrictions?** Check if there are any access restrictions.
+14.	**Access Restrictions Note**: Describe any access restrictions.
+15.	**Use Restrictions?** Check if there are any use restrictions.
+16.	**Use Restrictions Note**: Describe any use restrictions.
 1.  **Classification 1**: Select the primary collecting area for this accession (e.g., AFT, AFSCME, ALUA_URBAN, AV, WSU, etc.)
 2.  **Classification 2**: Select only if there is a secondary collecting area for this accession. This will generally only be the case for accessions that are *both* primarily AV and fall into another collecting area (e.g., AFT, AFSCME, ALUA_LABOR, SEIU, UAW, etc.)
 3.  **Location 1**: Enter the physical location of the accession.
