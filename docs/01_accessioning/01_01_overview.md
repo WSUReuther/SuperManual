@@ -90,7 +90,7 @@ For example:
 | --- | --- |
 | Jerome Cavanagh Papers | UP000379 |
 | Jerome Cavanagh Photographs | UAV000379 |
-| Jerome Cavanagh Library | UL000379* |
+| Jerome Cavanagh Library* | UL000379 |
 
 A collection’s numeric code is derived from the sequential numbering system already in place in the [Accession Numbers spreadsheet](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Acquisitions_Accessions/Accession_numbers.xlsx?d=wd0f64af0ad7640d8a428a1039d0448d8&csf=1&web=1&e=agLa9o). A new collection is assigned the next number in the sequence. Deposits or donations from larger organizational donors, such as the UAW or AFT, are assigned numbers per department or individual, NOT one all-encompassing number. Accruals from one department/individual will be tracked by date received.
 
