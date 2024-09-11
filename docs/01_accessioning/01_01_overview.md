@@ -31,7 +31,7 @@ Outlined below is the workflow followed for each incoming collection.
       3. The Deed of Gift/Deposit Agreement needs to be in place before materials are transferred to the Reuther   
 2. If the accession contains physical materials:
       1. **Field/Collection Archivist** notifies the Facilities Coordinator know that a shipment of materials is expected
-      2. **Facilities Coordinator** notifies the **Field/Collection Archivist** by email the day a shipment arrives
+      2. **Facilities Coordinator** notifies the **Field/Collection Archivist** the day a shipment arrives
 3. If the accession contains born-digital materials:
       1. **Field/Collection Archivist** notifies the Digital Curation and Preservation Archivist that an accession containing born-digital material is expected
       2. **Field/Collection Archivist** identifies and conducts initial appraisal on born-digital material to be transferred
@@ -47,6 +47,7 @@ Outlined below is the workflow followed for each incoming collection.
 6. For born-digital materials, the **Digital Curation and Preservation Archivist**:
       1. Transfers born-digital content from physical storage media or networked storage, normalizing file formats for long-term preservation and access within 90 days of receipt
       2. Generates metadata, including checksums, file format reports, PII scans, directory trees/file lists
+      3. Transfers content to a designated staging area on the local network for processing 
 7. **Field/Collection Archivist** determines if material can be immediately opened, requires additional processing, or must be restricted, and proceeds accordingly:
       1. Immediately opening material (no restrictions): [Opening Accessions](../02_arrangement/02_01_general.md#opening-accessions)
       2. Processing material: [Processing](../02_arrangement/02_01_general.md#processing-levels)
@@ -89,7 +90,7 @@ For example:
 | --- | --- |
 | Jerome Cavanagh Papers | UP000379 |
 | Jerome Cavanagh Photographs | UAV000379 |
-| Jerome Cavanagh Library | UL000379 |
+| Jerome Cavanagh Library | UL000379* |
 
 A collection’s numeric code is derived from the sequential numbering system already in place in the [Accession Numbers spreadsheet](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Acquisitions_Accessions/Accession_numbers.xlsx?d=wd0f64af0ad7640d8a428a1039d0448d8&csf=1&web=1&e=agLa9o). A new collection is assigned the next number in the sequence. Deposits or donations from larger organizational donors, such as the UAW or AFT, are assigned numbers per department or individual, NOT one all-encompassing number. Accruals from one department/individual will be tracked by date received.
 
@@ -111,7 +112,7 @@ A collection’s numeric code is derived from the sequential numbering system al
 | WSP | Wayne State papers |
 | WSAV | Wayne State audiovisual |
 | WSOH  | Wayne State oral histories |
-| *WSL | Wayne State library |
+| WSL | Wayne State library* |
 
 *Note: Historically, the Reuther Library has accepted books for the Library and assigned them separate prefixes, but this practice has been discontinued.
 
