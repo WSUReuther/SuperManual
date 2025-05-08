@@ -47,11 +47,11 @@ processing queue. This involves the following:
     collection (or parts thereof) needs processing, to what level it
     should be processed, and what priority status should be assigned.
     Assuming further processing is needed, a [Processing
-    Queue](#processing-queue.md) event is created to indicate the
+    Queue](../03_shared/03_02_events.md#processing-queue) event is created to indicate the
     collection is part of the processing queue rather than fully
     processed and completed.
 3.  If no further processing is needed, create a
-    [Processed](#processed.md) event.
+    [Processed](../03_shared/03_02_events.md#processed) event.
 
 ## Processing Levels
 
@@ -113,9 +113,9 @@ outlined in the sections below.
             collection.
 2.  Consult ArchivesSpace for additional information (accession record,
     agent(s), etc.) and updated records:
-    1.  Revise (or create) an ArchivesSpace , and begin recording
+    1.  Revise (or create) an ArchivesSpace resource record, and begin recording
         information in the fields, including the [Collection
-        Management](#collection-management.md) subrecord (Processing
+        Management](02_03_resources.md#collection-management) subrecord (Processing
         Priority, Processing Plan, Processor, and Processing hrs/unit
         Estimate). Note that not all fields can be filled out until
         processing is completed, and some will change (e.g, dates,
@@ -124,8 +124,8 @@ outlined in the sections below.
         1.  In the Accession Record, select Events from the side
             navigation and select Edit.
         2.  In the event's edit screen, change event type from
-            [Processing New](#processing-new.md) to [Processing In
-            Progress](#processing-in-progress.md).
+            [Processing New](../03_shared/03_02_events.md#processing-new) to [Processing In
+            Progress](../03_shared/03_02_events.md#processing-in-progress).
         3.  If there are multiple accessions being processed:
             1.  Link all Accessions to this single Processing In
                 Progress event record.
@@ -155,7 +155,7 @@ outlined in the sections below.
     2.  When deciding what level to process the collection or addition,
         keep in mind extent, research value and donor relations (e.g.,
         the terms and conditions in the donor agreement).
-    3.  **For Level I or Level II**: If there is no existing discernable
+    3.  **For Level I or Level II**: If there is no existing discernible
         order that can easily be maintained:
         1.  Establish series (if needed) by subject matter, creating
             office, document type, or time period depending on what most
@@ -190,7 +190,7 @@ outlined in the sections below.
             are unclear discuss with the director and/or the Collections
             Committee.
     3.  Document the deaccession: Create and link a [Deaccession
-        Event](#deaccession.md) to the accession record. Add a
+        Event](../03_shared/03_02_events.md#deaccession) to the accession record. Add a
         "Deaccession" note to the accession record explaining how, why,
         and when the material was deaccessioned, as well as if it was
         returned to the donor or otherwise disposed. \[This only applies
@@ -510,16 +510,16 @@ accessible. To do this, complete the following steps:
     collection's ArchivesSpace , using the appropriate template text
     based on the processing level (I, II, or III).
 
-2.  
+2.  [Create and inventory](02_04_archival_objects) (box/folder list) using one of the detailed methods
 
 3.  If the collection has any restrictions that require all or a portion
     of it to be closed, add a [Temporarily
-    Closed](#temporarily-closed.md) event. If the collection was only
+    Closed](../03_shared/03_02_events.md#temporarily-closed) event. If the collection was only
     partially processed, add a [Processing
-    Partial](#processing-partial.md) event.
+    Partial](../03_shared/03_02_events.md#processing-partial) event.
 
 4.  In the related accession record(s), update the Processing in
-    Progress event to [Processed](#processed.md).
+    Progress event to [Processed](../03_shared/03_02_events#processed).
 
 5.  Complete the Collection Checklist, and place it in the digital case
     file \[HOLD02 \> CaseFiles\> (select appropriate files)\], and hard
@@ -546,7 +546,7 @@ accessible. To do this, complete the following steps:
 ## Completion
 
 1.  Complete the ArchivesSpace Resource Record [Collection Management
-    Subrecord](#collection-management.md) (Processing Total Extent,
+    Subrecord](02_03_resources.md#collection-management) (Processing Total Extent,
     Extent Type, Total Processing Hours, Funding Source).
 
 2.  Discarding sensitive and other materials (duplicates, blank pieces
