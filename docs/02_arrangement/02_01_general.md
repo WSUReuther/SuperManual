@@ -59,18 +59,11 @@ processing queue. This involves the following:
 three levels:*
 
   -----------------------------------------------------------------------
-  Level                               Description
-  ----------------------------------- -----------------------------------
-  Level I                             folder inventory; full arrangement
-                                      & description
-
-  Level II                            box or folder inventory; series
-                                      level arrangement & minimal
-                                      description
-
-  Level III                           box or folder inventory; collection
-                                      level arrangement & minimal
-                                      description
+  | Level | Description |
+  | --- | --- |
+  | Level I | folder inventory; full arrangement & description |
+  | Level II | box or folder inventory; series level arrangement & minimal description |
+  | Level III | box or folder inventory; collection level arrangement & minimal description |
   -----------------------------------------------------------------------
 
 On average, it takes 1-2 hours per box to open a Level II or III
