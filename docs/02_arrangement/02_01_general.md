@@ -519,7 +519,7 @@ accessible. To do this, complete the following steps:
     Partial](../03_shared/03_02_events.md#processing-partial) event.
 
 4.  In the related accession record(s), update the Processing in
-    Progress event to [Processed](../03_shared/03_02_events#processed).
+    Progress event to [Processed](../03_shared/03_02_events.md#processed).
 
 5.  Complete the Collection Checklist, and place it in the digital case
     file \[HOLD02 \> CaseFiles\> (select appropriate files)\], and hard
