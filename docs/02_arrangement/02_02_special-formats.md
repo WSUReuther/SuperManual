@@ -336,7 +336,7 @@ Reuther's complete holdings.
 
 Examples are given to help illustrate above points. Refer to oral
 history notes in [ArchivesSpace: Resource
-Records](02_arrangement/02_03_resources/.md) for full
+Records](02_03_resources.md) for full
 description procedures.
 
 **Example 1:**
