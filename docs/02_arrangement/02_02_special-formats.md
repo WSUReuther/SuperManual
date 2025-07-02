@@ -476,7 +476,7 @@ folders.
     alternative housing options.
 
 2.  Keep notes about the oversized materials to include in the [Resource
-    Record](02_arrangement/02_03_resources.md):
+    Record](02_03_resources.md):
 
     a.  Extent -- Include in total linear footage and mark the inclusion
         of OS material in the parentheses describing the number and type
