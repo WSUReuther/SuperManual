@@ -600,7 +600,7 @@ Room microfilm cabinet.
     b.  Where appropriate, apply a restriction to the collection:
         i.  Check the "restrictions apply" box under Basic Information
         ii. Describe restricted material in the [Conditions Governing
-            Access/Use](#conditions-governing-access) sections.
+            Access/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
             1.  Include whether a Restricted Use Form is required
                 (generally limited to collections where material may not
                 be quoted or cited; names and other personal
