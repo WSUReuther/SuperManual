@@ -55,11 +55,11 @@ resource records.
 
 ## Dates
 
---8\<-- "dates.md"
+--8<-- "dates.md"
 
 ## Extents
 
---8\<-- "extents.md"
+--8<-- "extents.md"
 
 ## Finding Aid Data
 
