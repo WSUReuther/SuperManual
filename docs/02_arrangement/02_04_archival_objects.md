@@ -357,7 +357,7 @@ For Level I or II (i.e. adding material to a specific series or
 sub-series), if you load your entire inventory at once, the files will
 be added to the end of the existing inventory and you will have to move
 individual files in [reorder
-mode](02_arrangement/02_04_archival_objects.md#reorder-components).
+mode](#reorder-components).
 If the additional/accrual is significant, you may want to create a
 separate spreadsheet for each of the lowest hierarchy levels (whether
 that is series, subseries, etc). Be sure the proper hierarchy number of
