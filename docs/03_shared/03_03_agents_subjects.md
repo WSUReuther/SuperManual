@@ -113,7 +113,7 @@ Adding agents within the resource or accession record:
 
         ![Create Person](../img/aspace_agent-person.png)
 
-        ![Create Family](../img/aspace_agent-family.png)
+        ![Create Family](../img/aspace_agents-family.png)
 
     1.  **Corporate Entity**:
         1.  **Basic Information \> Publish**: Check.
@@ -173,7 +173,7 @@ Adding agents within the resource or accession record:
     agent](#related-agent-rules), add it.
 2.  **Create and Link to Agent**: Select.
 
-    ![Create Corporate Entity](../img/aspace_agent-corporate.png)
+    ![Create Corporate Entity](../img/aspace_agents-corporate.png)
 
 ### Related Agent Rules
 
