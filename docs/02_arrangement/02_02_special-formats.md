@@ -446,7 +446,7 @@ Room microfilm cabinet.
 
 ## Sensitive Materials
 
-1.  As much as possible, identify any documents of a very personal nature such as:
+As much as possible, identify any documents of a very personal nature such as:
     -   Personnel, "Personnel Committee," or Human Resources files, including performance evaluations
     -   Student records
     -   Grievance files
@@ -459,7 +459,9 @@ Room microfilm cabinet.
     -   Intimate personal correspondence
     -   Intimate diary passages
     -   Interviews, or any documents that contain statements which may be libelous
-2.  Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
+
+    Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
+
   1. IF KEPT IN OPEN COLLECTION:
     1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title).
     2. Where appropriate, apply a restriction to the collection:
@@ -475,9 +477,11 @@ Room microfilm cabinet.
     5. Apply "restricted use"
     [labels](https://waynestateprod.sharepoint.com/:f:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/Labels?csf=1&web=1&e=gLZBpF)
     to boxes containing restricted material
+
   2.  IF DISCARDED:
   - Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
   - Shred material after the collection is fully arranged and described.
+  
   3.  IF CLOSED temporarily:
   - Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
   - Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
