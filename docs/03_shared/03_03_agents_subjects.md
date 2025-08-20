@@ -217,7 +217,6 @@ Select the appropriate agent rather than creating a new one.
 |  AFT |	American Federation of Teachers |
 |  ALPA |	Air Line Pilots Association |
 |  IWW |	Industrial Workers of the World |
-|  JCA |	Jewish Federation of Metropolitan Detroit |
 |  NALC |	National Association of Letter Carriers (U.S.) |
 |  SEIU |	Service Employees International Union |
 |  SWE |	Society of Women Engineers |
