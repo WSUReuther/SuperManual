@@ -263,11 +263,13 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 
 !!! note "Separated Material"
     Oral history audiotapes (Box 84) were transferred to AV
+    
 2.  The Arrangement note of the resource record states a general description:
 
 !!! note "Arrangement"
     Papers are divided into 5 series:
     Series V: Linden NJ Plant interviews, 1980s-1990s
+
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
@@ -294,10 +296,12 @@ to AV.
 
 !!! note "Separated Material"
     Oral history audiocassette tapes were transferred to AV
+
 2.  The Arrangement note of the resource record details how the formats are listed in the inventory:
 
 !!! note "Arrangement"
     Oral history interviews are listed at the end of the inventory (Box 83). Transcripts only can be found in Box 83. Recordings are listed under AV Materials.
+
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
@@ -323,10 +327,12 @@ In a discrete oral history project, hard-copy transcripts are boxed and shelved 
 
 !!! note "Separated Material"
     Oral history audiotapes were transferred to AV
+
 2.  The Arrangement note in the resource record details how the formats are listed in the inventory:
 
 !!! note "Arrangement"
     Oral history transcripts are listed alphabetically. Recordings are listed under AV Material.
+
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
@@ -347,11 +353,15 @@ In a discrete oral history project, hard-copy transcripts are boxed and shelved 
 In a discrete digital oral history project, transcripts and audio files are uploaded to the server.
 
 1.  The Access note reads:
+
 !!! note "Access"
     An audio recording of each interview may be accessed on site at the Reuther Library.
+
 2.  The Arrangement note explains the digital file order:
+
 !!! note "Arrangement"
     Oral history interviews are arranged alphabetically, which corresponds to their unique identifier, and then by format.
+
 3.  The inventory lists formats of each interview:
 
 !!! note "Inventory"
