@@ -210,40 +210,20 @@ Linking to a personal name:
 Agents for our common donor organizations already exist in ASpace.
 Select the appropriate agent rather than creating a new one.
 
-  -----------------------------------------------------------------------
-  Donor                               Agent
-  ----------------------------------- -----------------------------------
-  AFA                                 Association of Flight Attendants
-                                      (U.S.)
-
-  AFSCME                              American Federation of State,
-                                      County and Municipal Employees
-
-  AFT                                 American Federation of Teachers
-
-  ALPA                                Air Line Pilots Association
-
-  IWW                                 Industrial Workers of the World
-
-
-
-  NALC                                National Association of Letter
-                                      Carriers (U.S.)
-
-  SEIU                                Service Employees International
-                                      Union
-
-  SWE                                 Society of Women Engineers
-
-  UAW                                 International Union, United
-                                      Automobile, Aerospace, and
-                                      Agricultural Implement Workers of
-                                      America
-
-  UFW                                 United Farm Workers
-
-  WSU                                 Wayne State University
-  -----------------------------------------------------------------------
+|  Donor | 	Agent |
+| --- | --- |
+|  AFA |	Association of Flight Attendants (U.S.) |
+|  AFSCME |	AFSCME |
+|  AFT |	American Federation of Teachers |
+|  ALPA |	Air Line Pilots Association |
+|  IWW |	Industrial Workers of the World |
+|  JCA |	Jewish Federation of Metropolitan Detroit |
+|  NALC |	National Association of Letter Carriers (U.S.) |
+|  SEIU |	Service Employees International Union |
+|  SWE |	Society of Women Engineers |
+|  UAW |	International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America |
+|  UFW |	United Farm Workers |
+|  WSU |	Wayne State University |
 
 ## Subjects
 
