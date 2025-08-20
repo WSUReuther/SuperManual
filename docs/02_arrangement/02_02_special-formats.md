@@ -402,29 +402,33 @@ folders.
 !!! note "ALUA"
   The following items should remain with ALUA collections when the processing archivist determines they should be kept:
 
-    - Labor periodicals, newspapers, and newsletters (runs and scattered issues)
-    - Urban-related serials published by organizations whose records we collect (runs and scattered issues)
-    - Labor agreements/contracts and supplements (final draft only, one access copy and one preservation copy)
-    - Constitutions and bylaws
-    - Convention proceedings
-    - Books and other publications with a flat, sewn-in or glued spine
-    - Pamphlets, booklets, and other printed material with a folded, stapled spine or spiral binding
-    - Publications related to a topic that reflects the interests of the donor
-    - Items all related to the same topic, the removal of which would destroy the collected body of information
+  - Labor periodicals, newspapers, and newsletters (runs and scattered issues)
+  - Urban-related serials published by organizations whose records we collect (runs and scattered issues)
+  - Labor agreements/contracts and supplements (final draft only, one access copy and one preservation copy)
+  - Constitutions and bylaws
+  - Convention proceedings
+  - Books and other publications with a flat, sewn-in or glued spine
+  - Pamphlets, booklets, and other printed material with a folded, stapled spine or spiral binding
+  - Publications related to a topic that reflects the interests of the donor
+  - Items all related to the same topic, the removal of which would destroy the collected body of information
 
 !!! note "WSU"
   The University Archivist determines the disposition of the following items found in University collections:
 
-    - Annual reports
-    - University Council minutes (runs)
-    - Board of Governors minutes (runs)
-    - Academic Senate minutes (runs)
-    - The South End
-    - Inside Wayne State
-        - In most cases, isolated publications (e.g. a pamphlet attached to correspondence, or a booklet within a folder of other materials) will be left in place.
-        - Larger amounts of publications can be left as found within the collection (Level III), placed with existing corresponding records series (Level I or II), or grouped together as a publications series (Level I or II), depending on the collection. They can be boxed with non-AV collection materials.
-        - Folder items in groups by subject heading rather than individually, when possible. Alternately, folder by publication title if amount so warrants (i.e. there is at least one folder).
-        - Regardless of processing Level, publications should be minimally inventoried. Use of the materials may dictate further processing, such as an inventory by publication title, later.
+  - Annual reports
+  - University Council minutes (runs)
+  - Board of Governors minutes (runs)
+  - Academic Senate minutes (runs)
+  - The South End
+  - Inside Wayne State
+
+    * In most cases, isolated publications (e.g. a pamphlet attached to correspondence, or a booklet within a folder of other materials) will be left in place.
+
+    * Larger amounts of publications can be left as found within the collection (Level III), placed with existing corresponding records series (Level I or II), or grouped together as a publications series (Level I or II), depending on the collection. They can be boxed with non-AV collection materials.
+
+    * Folder items in groups by subject heading rather than individually, when possible. Alternately, folder by publication title if amount so warrants (i.e. there is at least one folder).
+
+    * Regardless of processing Level, publications should be minimally inventoried. Use of the materials may dictate further processing, such as an inventory by publication title, later.
 
 !!! note past practice has been to separate publications from the collections and catalog them, under purview of the Reuther Librarian (a position that no longer exists).
 
