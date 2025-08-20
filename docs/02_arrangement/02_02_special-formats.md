@@ -270,16 +270,16 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 
 !!! note "Inventory"
   ```
-	Series V
-	Box 83
-	1.	Bob Jones; transcript, 1988
-	2.	Jim Taylor; transcript, 1985
+  Series V
+  Box 83
+  1.	Bob Jones; transcript, 1988
+  2.	Jim Taylor; transcript, 1985
 
-	Box 84
+  Box 84
 	1.	Bob Jones; audio cassette tape 1 of 2, 1988
 	2.	Bob Jones; audio cassette tape 2 of 2, 1988
 	3.	Jim Taylor; audio cassette tape, 1985
-	```
+  ```
 
 
 **Example 2:**
@@ -354,7 +354,7 @@ In a discrete digital oral history project, transcripts and audio files are uplo
   LOH001000_OH_001.pdf    Jim Taylor; transcript, 1985
   ```
 
-  
+
 ## Newspaper Clippings
 
 Clippings are not prime research material and should not take up
