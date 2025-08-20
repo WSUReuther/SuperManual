@@ -260,9 +260,11 @@ Examples are given to help illustrate above points. Refer to oral history notes 
 In a 5-series manuscript collection, OH material is arranged in the last series (2 boxes) and described. Box 83 contains transcripts that stay with the collection. Box 84 contains tapes physically transferred to AV
 
 1.  The Separated Material note of the resource record states them transfer:
+
 !!! note "Separated Material"
     Oral history audiotapes (Box 84) were transferred to AV
 2.  The Arrangement note of the resource record states a general description:
+
 !!! note "Arrangement"
     Papers are divided into 5 series:
     Series V: Linden NJ Plant interviews, 1980s-1990s
@@ -289,12 +291,15 @@ described. A few audiotapes (less than a box) are physically transferred
 to AV.
 
 1.  The Separated Material note of the resource record states the transfer:
+
 !!! note "Separated Material"
     Oral history audiocassette tapes were transferred to AV
 2.  The Arrangement note of the resource record details how the formats are listed in the inventory:
+
 !!! note "Arrangement"
     Oral history interviews are listed at the end of the inventory (Box 83). Transcripts only can be found in Box 83. Recordings are listed under AV Materials.
 3.  The inventory states formats of the interviews:
+
 !!! note "Inventory"
   ```
   Box 83
@@ -315,9 +320,11 @@ to AV.
 In a discrete oral history project, hard-copy transcripts are boxed and shelved at 3N-F-1. The box: folder listing reflects their order as per normal arrangement & description procedures. Audiotapes (less than one box) are physically transferred to AV
 
 1.  The Separated Material note in the resource record states the transfer:
+
 !!! note "Separated Material"
     Oral history audiotapes were transferred to AV
 2.  The Arrangement note in the resource record details how the formats are listed in the inventory:
+
 !!! note "Arrangement"
     Oral history transcripts are listed alphabetically. Recordings are listed under AV Material.
 3.  The inventory states formats of the interviews:
@@ -346,6 +353,7 @@ In a discrete digital oral history project, transcripts and audio files are uplo
 !!! note "Arrangement"
     Oral history interviews are arranged alphabetically, which corresponds to their unique identifier, and then by format.
 3.  The inventory lists formats of each interview:
+
 !!! note "Inventory"
   ```
   LOH001000_OH_001.mp3    Bob Jones; audio recording, 1988     
