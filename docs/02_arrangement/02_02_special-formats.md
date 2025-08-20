@@ -450,19 +450,21 @@ Room microfilm cabinet.
 
 ## Sensitive Materials
 
-1. As much as possible, identify any documents of a very personal nature such as:
-  - Personnel, "Personnel Committee," or Human Resources files, including performance evaluations
-  - Student records
-  - Grievance files
-  - Legal case files
-  - Police or prison records
-  - Social work case files
-  - Medical (including psychiatric) records
-  - Military records
-  - Financial records
-  - Intimate personal correspondence
-  - Intimate diary passages
-  - Interviews, or any documents that contain statements which may be libelous
+As much as possible, identify any documents of a very personal nature such as:
+
+| --- |
+| Personnel, "Personnel Committee," or Human Resources files, including performance evaluations|
+| Student records|
+| Grievance |
+| Legal case files |
+| Police or prison records |
+| Social work case files |
+| Medical (including psychiatric) records |
+| Military records |
+| Financial records |
+| Intimate personal correspondence |
+| Intimate diary passages |
+| Interviews, or any documents that contain statements which may be libelous |
 
 2. Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
   1. IF KEPT IN OPEN COLLECTION:
