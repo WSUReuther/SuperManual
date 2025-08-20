@@ -342,14 +342,15 @@ Remove material such as charts, maps, diplomas, and certificates from the main b
   - Academic Senate minutes (runs)
   - The South End
   - Inside Wayne State
+  
 
-    * In most cases, isolated publications (e.g. a pamphlet attached to correspondence, or a booklet within a folder of other materials) will be left in place.
+* In most cases, isolated publications (e.g. a pamphlet attached to correspondence, or a booklet within a folder of other materials) will be left in place.
 
-    * Larger amounts of publications can be left as found within the collection (Level III), placed with existing corresponding records series (Level I or II), or grouped together as a publications series (Level I or II), depending on the collection. They can be boxed with non-AV collection materials.
+* Larger amounts of publications can be left as found within the collection (Level III), placed with existing corresponding records series (Level I or II), or grouped together as a publications series (Level I or II), depending on the collection. They can be boxed with non-AV collection materials.
 
-    * Folder items in groups by subject heading rather than individually, when possible. Alternately, folder by publication title if amount so warrants (i.e. there is at least one folder).
+* Folder items in groups by subject heading rather than individually, when possible. Alternately, folder by publication title if amount so warrants (i.e. there is at least one folder).
 
-    * Regardless of processing Level, publications should be minimally inventoried. Use of the materials may dictate further processing, such as an inventory by publication title, later.
+* Regardless of processing Level, publications should be minimally inventoried. Use of the materials may dictate further processing, such as an inventory by publication title, later.
 
 !!! note past practice has been to separate publications from the collections and catalog them, under purview of the Reuther Librarian (a position that no longer exists).
 
