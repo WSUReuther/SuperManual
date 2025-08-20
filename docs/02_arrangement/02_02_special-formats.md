@@ -392,6 +392,7 @@ its original location. Oversized clippings can be folded to fit in the
 folders.
 
 1.  Unroll or unfold items and place in labeled oversized folders in an oversized box or communal oversized box, depending on quantity. If item(s) are too big for an OS box, contact the AV Department for alternative housing options.
+
 2.  Keep notes about the oversized materials to include in the [Resource Record](02_03_resources.md):
   1. Extent -- Include in total linear footage and mark the inclusion of OS material in the parentheses describing the number and type of boxes in the collection e.g. (5 SB), 2 maps or (5 SB, 1 OS)
   2. Separated Material -- if items are to be stored in the AV department, indicate their transfer in this section
