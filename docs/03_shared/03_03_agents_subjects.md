@@ -4,20 +4,20 @@ Agent and subject records are defined in their subsections below.
 
 Agents and Subjects in ASpace can be created two ways:
 
-1.  Use the Create menu. Select: Create \> \[Agent/Subject\] Record. An
+1.  Use the Create menu. Select: Create > [Agent/Subject] Record. An
     empty agent or subject record will appear. Fill in and edit the
     fields as indicated below.
 2.  Create an agent or subject record from within an Accession or
     Resource record
-    1.  Select: Add in the \[Agent/Subject\] subrecord
-    2.  An empty \[Agent/Subject\] subrecord will appear. Fill in and
+    1.  Select: Add in the [Agent/Subject] subrecord
+    2.  An empty [Agent/Subject] subrecord will appear. Fill in and
         edit the fields as indicated below.
 
 The Agent or Subject record will contain more fields than those listed
 below, but **do NOT enter/change any information in a field that is not
 indicated below.**
 
-Edit the information in \[ \]s (and delete the brackets). Choose the
+Edit the information in [ ]s (and delete the brackets). Choose the
 proper selection from those listed in *italics*.
 
 The instructions below can be used both for creating and editing agent
@@ -55,54 +55,54 @@ Adding agents within the resource or accession record:
 
     2.  **Create**: To create a new agent, select "Create" from the
         dropdown. Then choose the creator type from the dropdown list
-        \[Person, Family, Corporate Entity, Software\].
+        [Person, Family, Corporate Entity, Software].
         1.  **Person** or **Family**:
-            1.  **Basic Information \> Publish**: Check.
-            2.  **Name Forms \> Authority ID**: If using a NACO
+            1.  **Basic Information > Publish**: Check.
+            2.  **Name Forms > Authority ID**: If using a NACO
                 authority record, enter the LC Control no. If creating a
                 Reuther Agent, enter the next available Reuther Agent ID
                 from the Reuther Agent Numbers spreadsheet. Enter the
                 new agent on the spreadsheet next to the ID.
-            3.  **Name Forms \> Source**: Reuther Agents or NACO
+            3.  **Name Forms > Source**: Reuther Agents or NACO
                 Authority File
-            4.  **Name Forms \> Rules**: Reuther Agents: Describing
+            4.  **Name Forms > Rules**: Reuther Agents: Describing
                 Archives: A Content Standard; NACO Authorities:
                 Anglo-American Cataloging Rules or Resource Description
                 and Access (AACR for all non-RDA agents)
-            5.  **Name Forms \> Name Order**: Leave as "Indirect."
-            6.  **Name Forms \> Prefix**: Record the prefix if
+            5.  **Name Forms > Name Order**: Leave as "Indirect."
+            6.  **Name Forms > Prefix**: Record the prefix if
                 applicable.
-            7.  **Name Forms \> Title**: Record the title if applicable
-            8.  **Name Forms \> Primary Part of Name**: Record the last
+            7.  **Name Forms > Title**: Record the title if applicable
+            8.  **Name Forms > Primary Part of Name**: Record the last
                 name.
-            9.  **Name Forms \> Rest of Name**: Record the first and
+            9.  **Name Forms > Rest of Name**: Record the first and
                 middle names.
-            10. **Name Forms \> Suffix**: Record a term that follows the
+            10. **Name Forms > Suffix**: Record a term that follows the
                 name, if applicable.
-            11. **Name Forms \> Fuller Form**: If the first and middle
+            11. **Name Forms > Fuller Form**: If the first and middle
                 names were abbreviated, this is where the complete
                 versions are recorded.
-            12. **Name Forms \> Number**: Add number if applicable.
+            12. **Name Forms > Number**: Add number if applicable.
             13. **Dates of Existence**: Select "Add Date" if using a
                 Reuther Agent, or the NACO agent has a date.
                 1.  **Type**: Range, Single
                 2.  **Certainty**: Leave blank if date is confirmed,
                     otherwise select "Approximate" if using circa or
                     active dates.
-                    1.  **Range Date**\> **Expression**: Only use if
+                    1.  **Range Date > Expression**: Only use if
                         entering circa dates or active dates. Only use
                         active date(s) if the agent is a Reuther agent
                         and birth or death dates cannot be determined or
                         approximated.
-                    2.  **Range\>Begin Standardized Date**: Type date
+                    2.  **Range > Begin Standardized Date**: Type date
                         using the format YYYY or YYYY-MM-DD, or select
                         date from calendar
-                    3.  **Range\>End Standardized Date**: Type date
+                    3.  **Range > End Standardized Date**: Type date
                         using the format YYYY or YYYY-MM-DD, or select
                         date from calendar
 
-1.  **Single Date\>Date Role**: Begin or End
-    1.  **Single Date\>Standardized Date**: Type or select date from
+1.  **Single Date > Date Role**: Begin or End
+    1.  **Single Date > Standardized Date**: Type or select date from
         calendar
 
     <!-- -->
@@ -116,23 +116,23 @@ Adding agents within the resource or accession record:
         ![Create Family](../img/aspace_agents-family.png)
 
     1.  **Corporate Entity**:
-        1.  **Basic Information \> Publish**: Check.
-        2.  **Name Forms \> Authority ID**: If using a NACO authority
+        1.  **Basic Information > Publish**: Check.
+        2.  **Name Forms > Authority ID**: If using a NACO authority
             record, enter the LC Control no. If creating a Reuther
             Agent, enter the next available Reuther Agent ID from the
             Reuther Agent Numbers spreadsheet. Enter the new agent on
             the spreadsheet next to the ID.
-        3.  **Name Forms \> Source**: Reuther Agents, NACO Authority
+        3.  **Name Forms > Source**: Reuther Agents, NACO Authority
             File
-        4.  **Name Forms \> Rules**: Reuther Agents: Describing
+        4.  **Name Forms > Rules**: Reuther Agents: Describing
             Archives: A Content Standard; NACO Authorities:
             Anglo-American Cataloging Rules, Resource Description and
             Access (AACR for all non-RDA agents)
-        5.  **Name Forms \> Primary Part of Name**: Enter the creator
+        5.  **Name Forms > Primary Part of Name**: Enter the creator
             name.
-        6.  **Name Forms \> Subordinate Name 1**: Enter the narrower
+        6.  **Name Forms > Subordinate Name 1**: Enter the narrower
             creator name (e.g., Local name)
-        7.  **Name Forms \> Qualifier**: Enter any qualifier (e.g.,
+        7.  **Name Forms > Qualifier**: Enter any qualifier (e.g.,
             location such as "Detroit, Mich.")
         8.  **Dates of Existence**: Select "Add Date" if using the agent
             is a Reuther Agent, or the NACO agent has a date.
@@ -141,25 +141,25 @@ Adding agents within the resource or accession record:
 
 <!-- -->
 
-1.  **Date Type**\> Range or Single
-    1.  **Range Date**\> **Expression**: Only use if entering circa
+1.  **Date Type** > Range or Single
+    1.  **Range Date > Expression**: Only use if entering circa
         dates or active dates. Only enter active date(s) (date range
         agent participated, e.g., 1900-1932; 20th century; 1975) if
         agent is a Reuther agent and birth date cannot be determined or
         approximated.)
-    2.  **Range\>Begin Standardized Date**: Type or select date from
+    2.  **Range > Begin Standardized Date**: Type or select date from
         calendar
-    3.  **Range\>End Standardized Date**: Type or select date from
+    3.  **Range > End Standardized Date**: Type or select date from
         calendar
 
 > \*OR\*
 
-4.  **Single Date**\> **Expression**: Only use if entering circa dates
+4.  **Single Date > Expression**: Only use if entering circa dates
     or active dates. Only enter active date(s) (date range agent
     participated, e.g., 1900-1932; 20th century; 1975) if agent is a
     Reuther agent and birth date cannot be determined or approximated.)
-5.  **Single Date\>Date Role**: Begin or End
-6.  **Single Date\>Standardized Date**: Type or select date from
+5.  **Single Date > Date Role**: Begin or End
+6.  **Single Date > Standardized Date**: Type or select date from
     calendar
 
 <!-- -->
@@ -248,7 +248,7 @@ create one following DACS.
 
     2.  **Create**: To create a new subject, select "Create" from the
         dropdown.
-        1.  Create Subject \> Basic Information
+        1.  Create Subject > Basic Information
             1.  **Authority ID**: If using LCSH, enter LC Control no. If
                 using Reuther Taxonomy, leave blank.
             2.  **Source**: Select applicable source: Library of
