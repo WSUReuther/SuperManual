@@ -463,25 +463,23 @@ As much as possible, identify any documents of a very personal nature such as:
     Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
 
   1. IF KEPT IN OPEN COLLECTION:
-    1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title).
-    2. Where appropriate, apply a restriction to the collection:
+    - Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title).
+    - Where appropriate, apply a restriction to the collection:
       - Check the "restrictions apply" box under Basic Information
       - Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
       - Include whether a Restricted Use Form is required (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.)
-    3. To secure items with high monetary or intrinsic value (e.g., the correspondence of famous people, cartoon drawings):
+    - To secure items with high monetary or intrinsic value (e.g., the correspondence of famous people, cartoon drawings):
         - Transfer item(s) to the vault with a photocopy in its original place.
         - The folder(s) should reference where the copies were (Box-Folder numbers) and completely state the collection title and accession number.
         - The folders are then stored in the available accumulated SB in the vault.
         - Include statement of transfer in the Separated Materials note of the resource record, statement of access in the Access note, and vault shelf location in the Location note of the ArchivesSpace record.
-    4. Note specific restricted folders or boxes in the inventory
-    5. Apply "restricted use"
-    [labels](https://waynestateprod.sharepoint.com/:f:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/Labels?csf=1&web=1&e=gLZBpF)
-    to boxes containing restricted material
+    - Note specific restricted folders or boxes in the inventory
+    - Apply "restricted use" [labels](https://waynestateprod.sharepoint.com/:f:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/Labels?csf=1&web=1&e=gLZBpF) to boxes containing restricted material
 
   2.  IF DISCARDED:
   - Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
   - Shred material after the collection is fully arranged and described.
-  
+
   3.  IF CLOSED temporarily:
   - Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
   - Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
