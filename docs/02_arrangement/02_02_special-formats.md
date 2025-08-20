@@ -452,6 +452,7 @@ Room microfilm cabinet.
 
 As much as possible, identify any documents of a very personal nature such as:
 
+| EXAMPLES |
 | --- |
 | Personnel, "Personnel Committee," or Human Resources files, including performance evaluations|
 | Student records|
