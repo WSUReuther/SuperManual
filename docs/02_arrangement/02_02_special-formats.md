@@ -183,18 +183,14 @@ Examples:
 | LOH001952_OH_001_001.doc | interview #1 draft transcript |
 | LOH001952_OH_001_002.doc | interview #1 additional case file materials, interviewee resume, etc. |
 
-Much of the above materials will go in the case file, but some
-project-level and/or related files may be placed in Access and
-Preservation folders in the Digital Hold, such as introductory essays,
-interviewee biographies, and the like.
+Much of the above materials will go in the case file, but some project-level and/or related files may be placed in Access and Preservation folders in the Digital Hold, such as introductory essays, interviewee biographies, and the like.
 
 Next, arrange the materials using the following guidelines for arranging
 born digital/digitized oral history transcripts and recordings.
 
 #### Project Materials
 
-1.  Ensure all files follow oral history naming conventions
-    ([recordings](#recordings), [transcripts](#transcripts), [project materials](#additional-project-materials)).
+1.  Ensure all files follow oral history naming conventions([recordings](#recordings), [transcripts](#transcripts), [project materials](#additional-project-materials).
 2.  Determine if the file is access or preservation:
     a.  Access: PDF, MP3, JPEG, MP4
     b.  Preservation: PDF/A, WAV, TIFF (If the material does not exist in a preservation format, put the original file in the preservation folder, e.g., JPEG.)
@@ -265,19 +261,16 @@ Examples are given to help illustrate above points. Refer to oral history notes 
 In a 5-series manuscript collection, OH material is arranged in the last series (2 boxes) and described. Box 83 contains transcripts that stay with the collection. Box 84 contains tapes physically transferred to AV
 
 1.  The Separated Material note of the resource record states them transfer:
-
 !!! note "Separated Material"
     Oral history audiotapes (Box 84) were transferred to AV
-
 2.  The Arrangement note of the resource record states a general description:
-
 !!! note "Arrangement"
-    Papers are divided into 5 series: Series V: Linden NJ Plant interviews, 1980s-1990s
-
+    Papers are divided into 5 series:
+    Series V: Linden NJ Plant interviews, 1980s-1990s
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
-```
+  ```
 	Series V
 	Box 83
 	1.	Bob Jones; transcript, 1988
@@ -288,39 +281,32 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 	2.	Bob Jones; audio cassette tape 2 of 2, 1988
 	3.	Jim Taylor; audio cassette tape, 1985
 	```
-
 **Example 2:**
 
 In a records collection, OH transcripts are arranged in the last box and
 described. A few audiotapes (less than a box) are physically transferred
-to AV
+to AV.
 
 1.  The Separated Material note of the resource record states the transfer:
-
 !!! note "Separated Material"
     Oral history audiocassette tapes were transferred to AV
-
 2.  The Arrangement note of the resource record details how the formats are listed in the inventory:
-
 !!! note "Arrangement"
     Oral history interviews are listed at the end of the inventory (Box 83). Transcripts only can be found in Box 83. Recordings are listed under AV Materials.
-
 3.  The inventory states formats of the interviews:
-
 !!! note "Inventory"
-```
-Box 83
-1. Publications, 1990-2010
-2. Linden NJ Plant interviews; Bob Jones transcript, 1988
-3. Linden NJ Plant interviews; Jim Taylor transcript, 1985
+  ```
+  Box 83
+  1. Publications, 1990-2010
+  2. Linden NJ Plant interviews; Bob Jones transcript, 1988
+  3. Linden NJ Plant interviews; Jim Taylor transcript, 1985
 
-AV Materials
-1.  Oversize poster
-2.  Linden NJ Plant interviews; Bob Jones audio cassette tape 1 of 2, 1988
-3.  Linden NJ Plant interviews; Bob Jones audio cassette tape 2 of 2, 1988
-4.  Linden NJ Plant interviews; Jim Taylor audio cassette tape, 1985
-```
-
+  AV Materials
+  1.  Oversize poster
+  2.  Linden NJ Plant interviews; Bob Jones audio cassette tape 1 of 2, 1988
+  3.  Linden NJ Plant interviews; Bob Jones audio cassette tape 2 of 2, 1988
+  4.  Linden NJ Plant interviews; Jim Taylor audio cassette tape, 1985
+  ```
 **Example 3:**
 
 In a discrete oral history project, hard-copy transcripts are boxed and shelved at 3N-F-1. The box: folder listing reflects their order as per normal arrangement & description procedures. Audiotapes (less than one box) are physically transferred to AV
@@ -338,17 +324,16 @@ In a discrete oral history project, hard-copy transcripts are boxed and shelved 
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
-```
-Box 1
-1. Bob Jones; transcript, 1988
-2. Jim Taylor; transcript, 1985
+  ```
+  Box 1
+  1. Bob Jones; transcript, 1988
+  2. Jim Taylor; transcript, 1985
 
-AV Materials
-1.  Bob Jones; audio cassette tape 1 of 2, 1988
-2.  Bob Jones; audio cassette tape 2 of 2, 1988
-3.  Jim Taylor; audio cassette tape, 1985
-```
-
+  AV Materials
+  1.  Bob Jones; audio cassette tape 1 of 2, 1988
+  2.  Bob Jones; audio cassette tape 2 of 2, 1988
+  3.  Jim Taylor; audio cassette tape, 1985
+  ```
 **Example 4:**
 
 In a discrete digital oral history project, transcripts and audio files are uploaded to the server.
@@ -366,13 +351,12 @@ In a discrete digital oral history project, transcripts and audio files are uplo
 3.  The inventory lists formats of each interview:
 
 !!! note "Inventory"
-```
-LOH001000_OH_001.mp3    Bob Jones; audio recording, 1988     
-LOH001000_OH_001.pdf    Bob Jones; transcript, 1988     
-LOH001000_OH_001.mp3    Jim Taylor; audio recording, 1985
-LOH001000_OH_001.pdf    Jim Taylor; transcript, 1985
-```
-
+  ```
+  LOH001000_OH_001.mp3    Bob Jones; audio recording, 1988     
+  LOH001000_OH_001.pdf    Bob Jones; transcript, 1988     
+  LOH001000_OH_001.mp3    Jim Taylor; audio recording, 1985
+  LOH001000_OH_001.pdf    Jim Taylor; transcript, 1985
+  ```
 ## Newspaper Clippings
 
 Clippings are not prime research material and should not take up
@@ -391,29 +375,16 @@ sheet on bond paper with penciled notation of the item's disposition in
 its original location. Oversized clippings can be folded to fit in the
 folders.
 
-1.  Unroll or unfold items and place in labeled oversized folders in an
-    oversized box or communal oversized box, depending on quantity. If
-    item(s) are too big for an OS box, contact the AV Department for
-    alternative housing options.
-
+1.  Unroll or unfold items and place in labeled oversized folders in an oversized box or communal oversized box, depending on quantity. If item(s) are too big for an OS box, contact the AV Department for alternative housing options.
 2.  Keep notes about the oversized materials to include in the [Resource Record](02_03_resources.md):
-
-    a.  Extent -- Include in total linear footage and mark the inclusion
-        of OS material in the parentheses describing the number and type
-        of boxes in the collection e.g. (5 SB), 2 maps or (5 SB, 1 OS)
-
-    b.  Separated Material -- if items are to be stored in the AV
-        department, indicate their transfer in this section
-
-    c.  Box-Folder listing -- if items are to be shelved along with the
-        rest of the collection in the main stacks, include a list of
-        their contents in this section, where appropriate (e.g. as part
-        of a series or as their own stand-alone series).
+  1. Extent -- Include in total linear footage and mark the inclusion of OS material in the parentheses describing the number and type of boxes in the collection e.g. (5 SB), 2 maps or (5 SB, 1 OS)
+  2. Separated Material -- if items are to be stored in the AV department, indicate their transfer in this section
+  3. Box-Folder listing -- if items are to be shelved along with the rest of the collection in the main stacks, include a list of their contents in this section, where appropriate (e.g. as part of a series or as their own stand-alone series).
 
 ## Publications
 
-!!! note "ALUA" The following items should remain with ALUA collections
-when the processing archivist determines they should be kept:
+!!! note "ALUA"
+  The following items should remain with ALUA collections when the processing archivist determines they should be kept:
 
     - Labor periodicals, newspapers, and newsletters (runs and scattered issues)
     - Urban-related serials published by organizations whose records we collect (runs and scattered issues)
@@ -425,7 +396,8 @@ when the processing archivist determines they should be kept:
     - Publications related to a topic that reflects the interests of the donor
     - Items all related to the same topic, the removal of which would destroy the collected body of information
 
-!!! note "WSU" The University Archivist determines the disposition of the following items found in University collections:
+!!! note "WSU"
+  The University Archivist determines the disposition of the following items found in University collections:
 
     - Annual reports
     - University Council minutes (runs)
@@ -438,7 +410,7 @@ when the processing archivist determines they should be kept:
         - Folder items in groups by subject heading rather than individually, when possible. Alternately, folder by publication title if amount so warrants (i.e. there is at least one folder).
         - Regardless of processing Level, publications should be minimally inventoried. Use of the materials may dictate further processing, such as an inventory by publication title, later.
 
-!!! note: past practice has been to separate publications from the collections and catalog them, under purview of the Reuther Librarian (a position that no longer exists).
+!!! note past practice has been to separate publications from the collections and catalog them, under purview of the Reuther Librarian (a position that no longer exists).
 
 ## Microfilm and Microfiche
 
@@ -447,32 +419,14 @@ Microfiche remains physically stored with the collection (in a separate
 folder or box), while microfilm is separated and stored in the Reading
 Room microfilm cabinet.
 
-1.  Describe microfilm and microfiche in context as it is found in the
-    collection. Where it is a duplicate of paper material, do not
-    describe twice.
-
-2.  Place separated microfilm reels in a microfilm box, found in the
-    Audiovisual Department. Like photographs, microfiche in small
-    quantities may be left in its original place in the collection where
-    appropriate.
-
+1.  Describe microfilm and microfiche in context as it is found in the collection. Where it is a duplicate of paper material, do not describe twice.
+2.  Place separated microfilm reels in a microfilm box, found in the Audiovisual Department. Like photographs, microfiche in small quantities may be left in its original place in the collection where appropriate.
 3.  Indicate the presence of microfilm material in the Resource Record.
-
-    a.  Use the Existence and Location of Copies -- Other Copies field
-        to denote that the microfilm is a duplication of other material
-        in the collection (i.e. paper materials). Also indicate which
-        material is the use copy.
-    b.  Use the Separated Materials - Transfers field to denote that the
-        microfilm is unique material that has been transferred.
-    c.  List the quantity of microfilm reels in the extent.
-
-4.  Transfer microfilm to the cabinet in the Reuther Library reading
-    room. Assign a location following the last documented reel in the
-    cabinet. This location will begin with 3R-A-2, followed by the
-    microfilm box number (i.e., 3R-A-2(29).
-
-5.  Include the microfilm's location in the collection's Resource Record
-    location note.
+  1. Use the Existence and Location of Copies -- Other Copies field to denote that the microfilm is a duplication of other material in the collection (i.e. paper materials). Also indicate which material is the use copy.
+  2. Use the Separated Materials - Transfers field to denote that the microfilm is unique material that has been transferred.
+  3. List the quantity of microfilm reels in the extent.
+4.  Transfer microfilm to the cabinet in the Reuther Library reading room. Assign a location following the last documented reel in the cabinet. This location will begin with 3R-A-2, followed by the microfilm box number (i.e., 3R-A-2(29).
+5.  Include the microfilm's location in the collection's Resource Record location note.
 
 ## Sensitive Materials
 
@@ -490,28 +444,25 @@ Room microfilm cabinet.
     -   Intimate diary passages
     -   Interviews, or any documents that contain statements which may be libelous
 2.  Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
-3.  IF KEPT IN OPEN COLLECTION:
-    a.  Add minimal description in the Resource Record (i.e. use general
-        terms to encompass several folders or boxes of material instead
-        of listing each folder title).
-    b.  Where appropriate, apply a restriction to the collection:
-        i.  Check the "restrictions apply" box under Basic Information
-        ii. Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
-            1.  Include whether a Restricted Use Form is required (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.)
-    c.  To secure items with high monetary or intrinsic value (e.g., the
-        correspondence of famous people, cartoon drawings):
-        i.  Transfer item(s) to the vault with a photocopy in its original place.
-        ii. The folder(s) should reference where the copies were (Box-Folder numbers) and completely state the collection title and accession number.
-        iii. The folders are then stored in the available accumulated SB in the vault.
-        iv. Include statement of transfer in the Separated Materials note of the resource record, statement of access in the Access note, and vault shelf location in the Location note of the ArchivesSpace record.
-4.  Note specific restricted folders or boxes in the inventory
-5.  Apply "restricted use"
+  1.  IF KEPT IN OPEN COLLECTION:
+    1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title).
+    2. Where appropriate, apply a restriction to the collection:
+      1. Check the "restrictions apply" box under Basic Information
+      2. Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
+      3. Include whether a Restricted Use Form is required (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.)
+      4. To secure items with high monetary or intrinsic value (e.g., the correspondence of famous people, cartoon drawings):
+        1. Transfer item(s) to the vault with a photocopy in its original place.
+        2. The folder(s) should reference where the copies were (Box-Folder numbers) and completely state the collection title and accession number.
+        3. The folders are then stored in the available accumulated SB in the vault.
+        4. Include statement of transfer in the Separated Materials note of the resource record, statement of access in the Access note, and vault shelf location in the Location note of the ArchivesSpace record.
+      5. Note specific restricted folders or boxes in the inventory
+      6.  Apply "restricted use"
     [labels](https://waynestateprod.sharepoint.com/:f:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/Labels?csf=1&web=1&e=gLZBpF)
     to boxes containing restricted material
-6.  IF DISCARDED:
-    a.  Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
-    b.  Shred material after the collection is fully arranged and described.
-7.  IF CLOSED temporarily:
-    a.  Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
-    b.  Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
-    c.  Create a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event linked to the resource record so these items can be added when opened.
+ 2.  IF DISCARDED:
+  1. Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
+  2. Shred material after the collection is fully arranged and described.
+ 3.  IF CLOSED temporarily:
+  1. Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
+  2. Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
+  3. Create a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event linked to the resource record so these items can be added when opened.
