@@ -185,21 +185,20 @@ Examples:
 
 Much of the above materials will go in the case file, but some project-level and/or related files may be placed in Access and Preservation folders in the Digital Hold, such as introductory essays, interviewee biographies, and the like.
 
-Next, arrange the materials using the following guidelines for arranging
-born digital/digitized oral history transcripts and recordings.
+Next, arrange the materials using the following guidelines for arranging born digital/digitized oral history transcripts and recordings.
 
 #### Project Materials
 
 1.  Ensure all files follow oral history naming conventions([recordings](#recordings), [transcripts](#transcripts), [project materials](#additional-project-materials).
 2.  Determine if the file is access or preservation:
-    a.  Access: PDF, MP3, JPEG, MP4
-    b.  Preservation: PDF/A, WAV, TIFF (If the material does not exist in a preservation format, put the original file in the preservation folder, e.g., JPEG.)
+    1. Access: PDF, MP3, JPEG, MP4
+    2. Preservation: PDF/A, WAV, TIFF (If the material does not exist in a preservation format, put the original file in the preservation folder, e.g., JPEG.)
 3.  Next, determine if the oral history is from a donor organization, or an individual project.
 4.  Based on this information, the file is arranged as follows:
-    a.  Access file, OH is part of an organization: HOLD01 > OH > Access > [organization] > [accession #]
-    b.  Access file, OH is not part of an organization: HOLD01 > OH > Access > Projects > [accession #] OR HOLD01 > OH > Access > Individual > [accession #]
-    c.  Preservation file, OH is part of an organization: HOLD01 > OH > Preservation > [organization] > [accession #]
-    d.  Preservation file, OH is NOT part of an organization: HOLD01 > OH > Preservation > Projects > [accession #] OR HOLD01 > OH > Preservation > Individual > [accession #]
+    1. Access file, OH is part of an organization: HOLD01 > OH > Access > [organization] > [accession #]
+    2. Access file, OH is not part of an organization: HOLD01 > OH > Access > Projects > [accession #] OR HOLD01 > OH > Access > Individual > [accession #]
+    3. Preservation file, OH is part of an organization: HOLD01 > OH > Preservation > [organization] > [accession #]
+    4. Preservation file, OH is NOT part of an organization: HOLD01 > OH > Preservation > Projects > [accession #] OR HOLD01 > OH > Preservation > Individual > [accession #]
 
 **Examples:**
 
@@ -281,6 +280,8 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 	2.	Bob Jones; audio cassette tape 2 of 2, 1988
 	3.	Jim Taylor; audio cassette tape, 1985
 	```
+
+
 **Example 2:**
 
 In a records collection, OH transcripts are arranged in the last box and
@@ -307,20 +308,18 @@ to AV.
   3.  Linden NJ Plant interviews; Bob Jones audio cassette tape 2 of 2, 1988
   4.  Linden NJ Plant interviews; Jim Taylor audio cassette tape, 1985
   ```
+
+
 **Example 3:**
 
 In a discrete oral history project, hard-copy transcripts are boxed and shelved at 3N-F-1. The box: folder listing reflects their order as per normal arrangement & description procedures. Audiotapes (less than one box) are physically transferred to AV
 
 1.  The Separated Material note in the resource record states the transfer:
-
 !!! note "Separated Material"
     Oral history audiotapes were transferred to AV
-
 2.  The Arrangement note in the resource record details how the formats are listed in the inventory:
-
 !!! note "Arrangement"
     Oral history transcripts are listed alphabetically. Recordings are listed under AV Material.
-
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
@@ -334,22 +333,19 @@ In a discrete oral history project, hard-copy transcripts are boxed and shelved 
   2.  Bob Jones; audio cassette tape 2 of 2, 1988
   3.  Jim Taylor; audio cassette tape, 1985
   ```
+
+
 **Example 4:**
 
 In a discrete digital oral history project, transcripts and audio files are uploaded to the server.
 
 1.  The Access note reads:
-
 !!! note "Access"
     An audio recording of each interview may be accessed on site at the Reuther Library.
-
 2.  The Arrangement note explains the digital file order:
-
 !!! note "Arrangement"
     Oral history interviews are arranged alphabetically, which corresponds to their unique identifier, and then by format.
-
 3.  The inventory lists formats of each interview:
-
 !!! note "Inventory"
   ```
   LOH001000_OH_001.mp3    Bob Jones; audio recording, 1988     
@@ -357,6 +353,8 @@ In a discrete digital oral history project, transcripts and audio files are uplo
   LOH001000_OH_001.mp3    Jim Taylor; audio recording, 1985
   LOH001000_OH_001.pdf    Jim Taylor; transcript, 1985
   ```
+
+  
 ## Newspaper Clippings
 
 Clippings are not prime research material and should not take up
