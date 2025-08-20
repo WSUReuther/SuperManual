@@ -2,21 +2,18 @@
 
 ## Audiovisual
 
-The following guidelines apply to audiovisual (AV) material found within
-manuscript and records collection accessions (exceptions may include
-donor institution collections, or highly valuable materials).
+The following guidelines apply to audiovisual (AV) material found within manuscript and records collection accessions (exceptions may include donor institution collections, or highly valuable materials).
 
 !!! note Collections predominantly containing AV materials are processed in the AV department according to separate guidelines.
 
 AV material is defined as the following:
 
--   Photographic prints, negatives, and slides
--   Audio recordings (phonographic records, magnetic tape, digital tape)
--   Motion picture film
--   Video recordings (magnetic tape, digital tape)
--   Graphic art (posters, drawings, prints, architectural plans, signs,
-    banners, textiles)
--   Fine art (paintings, sculpture)
+- Photographic prints, negatives, and slides
+- Audio recordings (phonographic records, magnetic tape, digital tape)
+- Motion picture film
+- Video recordings (magnetic tape, digital tape)
+- Graphic art (posters, drawings, prints, architectural plans, signs, banners, textiles)
+- Fine art (paintings, sculpture)
 
 ### Arrangement
 
@@ -25,33 +22,22 @@ AV material is defined as the following:
 Determination must be made whether to shelve AV material boxes alongside the manuscript or records boxes or transfer them to the Audiovisual Department (AV) for storage and access. In general, formats that require special equipment for viewing are kept in the AV Department.
 **Use the following format-specific guidelines to make your determination**:
 
--   **Photographic prints** or any other positive image paper-based materials (i.e., graphic art) are shelved alongside the rest of the collection.
+- **Photographic prints** or any other positive image paper-based materials (i.e., graphic art) are shelved alongside the rest of the collection.
 Exceptions are:
-    -   Legal-size (or smaller) items that constitute less than a ½
-        manuscript box. These are given to the AV to be placed in the
-        small collections hanging files.
-    -   Oversize items that will not adequately fit in the largest
-        available flat box (approx. 30" x 40"). Contact AV for storage
-        options.
--   **Photographic negatives** are transferred to the AV Department
-    -   Color negatives should not be left with other materials due to
-        off-gassing damage.
--   **Audio, film, or video recordings** are transferred to AV
--   **Fine art or sculpture** are transferred to AV
+    - Legal-size (or smaller) items that constitute less than a ½ manuscript box. These are given to the AV to be placed in the small collections hanging files.
+    - Oversize items that will not adequately fit in the largest available flat box (approx. 30" x 40"). Contact AV for storage options.
+- **Photographic negatives** are transferred to the AV Department
+    - Color negatives should not be left with other materials due to off-gassing damage.
+- **Audio, film, or video recordings** are transferred to AV
+- **Fine art or sculpture** are transferred to AV
 
 **Mechanics**
 
-Regardless of final stacks destination, house the material according to
-format.
+Regardless of final stacks destination, house the material according to format.
 
-Single or small groupings of photographic prints can be left interfiled
-with other materials if important to their context. In those cases,
-interleave the prints and surrounding materials with acid-free bond
-paper.
+Single or small groupings of photographic prints can be left interfiled with other materials if important to their context. In those cases, interleave the prints and surrounding materials with acid-free bond paper.
 
-When separating photographic negatives, an option is to place them in
-folded bond paper and then into a folder. Write any descriptive
-information on the bond paper or folder tab.
+When separating photographic negatives, an option is to place them in folded bond paper and then into a folder. Write any descriptive information on the bond paper or folder tab.
 
 -   If transferring boxes to AV, label the boxes (leave AV location blank).
 -   If transferring folders or single items (including oversize) to AV, either label (if applicable) or write the collection title, accession #, and item \# on the folder tab, lightly penciled on the back of the item(s), or written on a separate sheet of paper and attached to the item(s) with a paperclip.
@@ -68,7 +54,7 @@ AV material is described according to the level of processing.
     - If single items (unboxed) are being transferred to AV use "AV" in lieu of box number in the container instance and use "item" instead of "Folder" as the child type.
     - If boxes are being transferred to AV, continue sequential numbering (i.e., do not start over with Box 1).
     - Do not inventory at the item level (unless you only have a couple of items) but instead provide a general statement.
-    - Information (gleaned from related documents or notations on the items themselves) such as dates, formats, subjects, events,amounts, sizes, etc. can be used.
+    - Information (gleaned from related documents or notations on the items themselves) such as dates, formats, subjects, events, amounts, sizes, etc. can be used.
     For example:
         -   10 oversize posters and awards, undated
         -   Photographs; Detroit Protests, 1967
@@ -83,12 +69,7 @@ AV material is described according to the level of processing.
 
 ## Oral Histories
 
-Oral history materials at the Reuther can be part of papers or records
-collections, duplicates of material at other archives used for reference
-purposes, or discrete projects conducted by Reuther staff, donors, or
-other related parties in accordance with the Reuther's mission. The
-following guidelines address all oral history materials from
-accessioning to access.
+Oral history materials at the Reuther can be part of papers or records collections, duplicates of material at other archives used for reference purposes, or discrete projects conducted by Reuther staff, donors, or other related parties in accordance with the Reuther's mission. The following guidelines address all oral history materials from accessioning to access.
 
 Oral History (OH) material is defined as any combination of the following:
 
@@ -98,48 +79,22 @@ Oral History (OH) material is defined as any combination of the following:
 
 ### Arrangement
 
-Regardless of how an OH is acquired, if it entails any type of
-recording, in addition to transcripts, there could be a physical
-separation of materials due to preservation concerns and access. Use the
-following guidelines to determine where to store materials:
+Regardless of how an OH is acquired, if it entails any type of recording, in addition to transcripts, there could be a physical separation of materials due to preservation concerns and access. Use the following guidelines to determine where to store materials:
 
 -   **Hard copy, machine-dependent media** such as reel-to-reel, film, cassette, VHS tapes, Hi-8 tapes, digital Hi-8 tapes, CDs and DVDs are to be transferred to AV
 
 -   **Born digital recordings** are to be uploaded to the [server](#project-materials).
-    -   If a transcript(s) is part of a unique accession or accrual to a
-        unique accession (this includes discrete projects and
-        duplicates): Hard-copy(s) are to be boxed and shelved at 3N-F-1
-        if space allows. Single transcripts are to be placed in the last
-        available individual oral history box and a specific arrangement
-        statement added to the resource record.
+    -   If a transcript(s) is part of a unique accession or accrual to a unique accession (this includes discrete projects and duplicates): Hard-copy(s) are to be boxed and shelved at 3N-F-1 if space allows. Single transcripts are to be placed in the last available individual oral history box and a specific arrangement statement added to the resource record.
     -   Digital-copy(s) are to be uploaded to the server.
 
 -   If the **transcript(s)** is part of a papers or records collection:
     -   They stay with the collection regardless of format
-    -   If digital (e.g., stored on CDs) within an analog collection,
-        upload digital files to the server, then dispose of original
-        media
-    -   If digital within an entirely digital collection, they will be
-        stored with the rest of the digital content
+    -   If digital (e.g., stored on CDs) within an analog collection, upload digital files to the server, then dispose of original media
+    -   If digital within an entirely digital collection, they will be stored with the rest of the digital content
 
 -   If the **transcripts and/or recordings** are digital:
-    -   First name the materials using the following conventions that
-        apply to both born-digital and digitized oral history recordings
-        and transcripts. For consistency, "OH" is added to the file
-        name, immediately following the accession number, regardless of
-        whether OH is already part of the accession number prefix.
-        Three-digit counter numbers are then added, beginning with 001
-        and increasing to 999 (if needed). Counter numbers represent
-        individual recordings and transcripts, disambiguating items in
-        larger oral history collections, and providing machine
-        readability. Recording and transcript numbers are automatically
-        differentiated by file name extension (e.g. recordings may end
-        in mp3, mp4, wav, etc., and transcripts will end in .pdf).
-    -   Continue to use established numbering conventions for
-        corresponding physical materials. These numbers may parallel the
-        numbering for digital materials, but will not be identical to it
-        (e.g., LOH002210.1 for physical recordings and physical
-        transcripts).
+    -   First name the materials using the following conventions that apply to both born-digital and digitized oral history recordings and transcripts. For consistency, "OH" is added to the file name, immediately following the accession number, regardless of whether OH is already part of the accession number prefix. Three-digit counter numbers are then added, beginning with 001 and increasing to 999 (if needed). Counter numbers represent individual recordings and transcripts, disambiguating items in larger oral history collections, and providing machine readability. Recording and transcript numbers are automatically differentiated by file name extension (e.g. recordings may end in mp3, mp4, wav, etc., and transcripts will end in .pdf).
+    -   Continue to use established numbering conventions for corresponding physical materials. These numbers may parallel the numbering for digital materials, but will not be identical to it (e.g., LOH002210.1 for physical recordings and physical transcripts).
 
 ### Recordings
 
@@ -168,9 +123,7 @@ Examples:
 
 ### Additional Project Materials
 
-Use the following convention for additional project materials such as
-project documentation, draft transcripts, biographical sketches,
-resumes, etc.
+Use the following convention for additional project materials such as project documentation, draft transcripts, biographical sketches, resumes, etc.
 
 File Name: **AccessionNumber_OH_Counter#_Counter#**
 
@@ -214,42 +167,21 @@ Next, arrange the materials using the following guidelines for arranging born di
 
 ### Mechanics
 
-1.  Media transferred to AV should be labeled with the full accession
-    number (including the unique identifier for multiple interview
-    projects).
-2.  Digital files of any format (audio, video, transcripts) should be
-    named following the file naming convention above.
-3.  Hard-copy transcripts should be foldered by interview. Folder should
-    be labeled with box-folder number, interviewee name, date, and
-    accession number.
-4.  Once the collection is processed and transferred items have been
-    delivered to and stored by the AV department, add location(s) to the
-    resource record.
-5.  **If an oral history(s) is part of a papers or records collection**,
-    the box labels containing recording media will reflect the accession
-    number of the entire collection and each individual tape should
-    still be labeled with the accession number plus the unique
-    identifier.
+1.  Media transferred to AV should be labeled with the full accession number (including the unique identifier for multiple interview projects).
+2.  Digital files of any format (audio, video, transcripts) should be named following the file naming convention above.
+3.  Hard-copy transcripts should be foldered by interview. Folder should be labeled with box-folder number, interviewee name, date, and accession number.
+4.  Once the collection is processed and transferred items have been delivered to and stored by the AV department, add location(s) to the resource record.
+5.  **If an oral history(s) is part of a papers or records collection**, the box labels containing recording media will reflect the accession number of the entire collection and each individual tape should still be labeled with the accession number plus the unique identifier.
 
 ### Description
 
-Oral histories receive the same level of description as papers and
-records collections so that they are discoverable during a search of the
-Reuther's complete holdings.
+Oral histories receive the same level of description as papers and records collections so that they are discoverable during a search of the Reuther's complete holdings.
 
-1.  Note all formats (AV and transcript) in the folder title. List
-    transcripts and media separately to physically account for all
-    material.
-2.  If the collection is only being described at the top collection
-    level, the oral history(s) should be mentioned in the scope and
-    contents note and the box inventory, if applicable.
-3.  Note all machine-dependent media being physically transferred to the
-    AV Department in the resource record under Separated Material.
-4.  The name of the interviewees should be listed either in a scope and
-    content note or a box or folder listing
-5.  Unique identifiers for each interview do not need to be recorded in
-    the resource record notes. They will only be accounted for in an
-    item-level inventory, if included.
+1.  Note all formats (AV and transcript) in the folder title. List transcripts and media separately to physically account for all material.
+2.  If the collection is only being described at the top collection level, the oral history(s) should be mentioned in the scope and contents note and the box inventory, if applicable.
+3.  Note all machine-dependent media being physically transferred to the AV Department in the resource record under Separated Material.
+4.  The name of the interviewees should be listed either in a scope and content note or a box or folder listing
+5.  Unique identifiers for each interview do not need to be recorded in the resource record notes. They will only be accounted for in an item-level inventory, if included.
 
 #### Examples
 
@@ -288,9 +220,7 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 
 **Example 2:**
 
-In a records collection, OH transcripts are arranged in the last box and
-described. A few audiotapes (less than a box) are physically transferred
-to AV.
+In a records collection, OH transcripts are arranged in the last box and described. A few audiotapes (less than a box) are physically transferred to AV.
 
 1.  The Separated Material note of the resource record states the transfer:
 
@@ -375,28 +305,18 @@ In a discrete digital oral history project, transcripts and audio files are uplo
 
 ## Newspaper Clippings
 
-Clippings are not prime research material and should not take up
-significant time. Only clippings with important contextual information
-should be photocopied. For **Level I** processing: Trim down as much as
-possible. If known, write the name of the newspaper and the date in
-pencil on the clipping. For **all Levels**: Segregate the clippings from
-the rest of the collection by foldering separately or interleaving
-acid-free bond paper.
+Clippings are not prime research material and should not take up significant time. Only clippings with important contextual information should be photocopied. For **Level I** processing: Trim down as much as possible. If known, write the name of the newspaper and the date in pencil on the clipping. For **all Levels**: Segregate the clippings from the rest of the collection by foldering separately or interleaving acid-free bond paper.
 
 ## Oversize Items
 
-Remove material such as charts, maps, diplomas, and certificates from
-the main body of the collection. If appropriate, create a separation
-sheet on bond paper with penciled notation of the item's disposition in
-its original location. Oversized clippings can be folded to fit in the
-folders.
+Remove material such as charts, maps, diplomas, and certificates from the main body of the collection. If appropriate, create a separation sheet on bond paper with penciled notation of the item's disposition in folders.
 
 1.  Unroll or unfold items and place in labeled oversized folders in an oversized box or communal oversized box, depending on quantity. If item(s) are too big for an OS box, contact the AV Department for alternative housing options.
 
 2.  Keep notes about the oversized materials to include in the [Resource Record](02_03_resources.md):
-  1. Extent -- Include in total linear footage and mark the inclusion of OS material in the parentheses describing the number and type of boxes in the collection e.g. (5 SB), 2 maps or (5 SB, 1 OS)
-  2. Separated Material -- if items are to be stored in the AV department, indicate their transfer in this section
-  3. Box-Folder listing -- if items are to be shelved along with the rest of the collection in the main stacks, include a list of their contents in this section, where appropriate (e.g. as part of a series or as their own stand-alone series).
+  * Extent -- Include in total linear footage and mark the inclusion of OS material in the parentheses describing the number and type of boxes in the collection e.g. (5 SB), 2 maps or (5 SB, 1 OS)
+  * Separated Material -- if items are to be stored in the AV department, indicate their transfer in this section
+  * Box-Folder listing -- if items are to be shelved along with the rest of the collection in the main stacks, include a list of their contents in this section, where appropriate (e.g. as part of a series or as their own stand-alone series).
 
 ## Publications
 
