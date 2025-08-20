@@ -435,13 +435,17 @@ Microfiche remains physically stored with the collection (in a separate
 folder or box), while microfilm is separated and stored in the Reading
 Room microfilm cabinet.
 
-1.  Describe microfilm and microfiche in context as it is found in the collection. Where it is a duplicate of paper material, do not describe twice.
-2.  Place separated microfilm reels in a microfilm box, found in the Audiovisual Department. Like photographs, microfiche in small quantities may be left in its original place in the collection where appropriate.
-3.  Indicate the presence of microfilm material in the Resource Record.
+1. Describe microfilm and microfiche in context as it is found in the collection. Where it is a duplicate of paper material, do not describe twice.
+
+2. Place separated microfilm reels in a microfilm box, found in the Audiovisual Department. Like photographs, microfiche in small quantities may be left in its original place in the collection where appropriate.
+
+3. Indicate the presence of microfilm material in the Resource Record.
   1. Use the Existence and Location of Copies -- Other Copies field to denote that the microfilm is a duplication of other material in the collection (i.e. paper materials). Also indicate which material is the use copy.
   2. Use the Separated Materials - Transfers field to denote that the microfilm is unique material that has been transferred.
   3. List the quantity of microfilm reels in the extent.
+
 4.  Transfer microfilm to the cabinet in the Reuther Library reading room. Assign a location following the last documented reel in the cabinet. This location will begin with 3R-A-2, followed by the microfilm box number (i.e., 3R-A-2(29).
+
 5.  Include the microfilm's location in the collection's Resource Record location note.
 
 ## Sensitive Materials
@@ -462,7 +466,7 @@ Room microfilm cabinet.
 
 2. Decide if items should be discarded, given back to the donor, restricted, or kept in the collection.
   1. IF KEPT IN OPEN COLLECTION:
-        1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title)
+    1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title)
         2. Where appropriate, apply a restriction to the collection:
         - Check the "restrictions apply" box under Basic Information
         - Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
