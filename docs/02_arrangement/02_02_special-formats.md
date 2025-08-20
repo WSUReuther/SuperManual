@@ -266,23 +266,28 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 
 1.  The Separated Material note of the resource record states them transfer:
 
-!!! note "Separated Material" Oral history audiotapes (Box 84) were transferred to AV
+!!! note "Separated Material"
+    Oral history audiotapes (Box 84) were transferred to AV
 
 2.  The Arrangement note of the resource record states a general description:
 
-!!! note "Arrangement" Papers are divided into 5 series: Series V: Linden NJ Plant interviews, 1980s-1990s
+!!! note "Arrangement"
+    Papers are divided into 5 series: Series V: Linden NJ Plant interviews, 1980s-1990s
 
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
-Series V
-Box 83
-1. Bob Jones; transcript, 1988
-2. Jim Taylor; transcript, 1985
-Box 84
-1.  Bob Jones; audio cassette tape 1 of 2, 1988
-2.  Bob Jones; audio cassette tape 2 of 2, 1988
-3.  Jim Taylor; audio cassette tape, 1985
+```
+	Series V
+	Box 83
+	1.	Bob Jones; transcript, 1988
+	2.	Jim Taylor; transcript, 1985
+
+	Box 84
+	1.	Bob Jones; audio cassette tape 1 of 2, 1988
+	2.	Bob Jones; audio cassette tape 2 of 2, 1988
+	3.	Jim Taylor; audio cassette tape, 1985
+	```
 
 **Example 2:**
 
@@ -292,15 +297,18 @@ to AV
 
 1.  The Separated Material note of the resource record states the transfer:
 
-!!! note "Separated Material" Oral history audiocassette tapes were transferred to AV
+!!! note "Separated Material"
+    Oral history audiocassette tapes were transferred to AV
 
 2.  The Arrangement note of the resource record details how the formats are listed in the inventory:
 
-!!! note "Arrangement" Oral history interviews are listed at the end of the inventory (Box 83). Transcripts only can be found in Box 83. Recordings are listed under AV Materials.
+!!! note "Arrangement"
+    Oral history interviews are listed at the end of the inventory (Box 83). Transcripts only can be found in Box 83. Recordings are listed under AV Materials.
 
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
+```
 Box 83
 1. Publications, 1990-2010
 2. Linden NJ Plant interviews; Bob Jones transcript, 1988
@@ -311,23 +319,26 @@ AV Materials
 2.  Linden NJ Plant interviews; Bob Jones audio cassette tape 1 of 2, 1988
 3.  Linden NJ Plant interviews; Bob Jones audio cassette tape 2 of 2, 1988
 4.  Linden NJ Plant interviews; Jim Taylor audio cassette tape, 1985
+```
 
 **Example 3:**
 
 In a discrete oral history project, hard-copy transcripts are boxed and shelved at 3N-F-1. The box: folder listing reflects their order as per normal arrangement & description procedures. Audiotapes (less than one box) are physically transferred to AV
 
-1.  The Separated Material note in the resource record states the
-    transfer:
+1.  The Separated Material note in the resource record states the transfer:
 
-!!! note "Separated Material" Oral history audiotapes were transferred to AV
+!!! note "Separated Material"
+    Oral history audiotapes were transferred to AV
 
 2.  The Arrangement note in the resource record details how the formats are listed in the inventory:
 
-!!! note "Arrangement" Oral history transcripts are listed alphabetically. Recordings are listed under AV Material.
+!!! note "Arrangement"
+    Oral history transcripts are listed alphabetically. Recordings are listed under AV Material.
 
 3.  The inventory states formats of the interviews:
 
 !!! note "Inventory"
+```
 Box 1
 1. Bob Jones; transcript, 1988
 2. Jim Taylor; transcript, 1985
@@ -336,6 +347,7 @@ AV Materials
 1.  Bob Jones; audio cassette tape 1 of 2, 1988
 2.  Bob Jones; audio cassette tape 2 of 2, 1988
 3.  Jim Taylor; audio cassette tape, 1985
+```
 
 **Example 4:**
 
@@ -343,21 +355,25 @@ In a discrete digital oral history project, transcripts and audio files are uplo
 
 1.  The Access note reads:
 
-!!! note "Access" An audio recording of each interview may be accessed on site at the Reuther Library.
+!!! note "Access"
+    An audio recording of each interview may be accessed on site at the Reuther Library.
 
 2.  The Arrangement note explains the digital file order:
 
-!!! note "Arrangement" Oral history interviews are arranged alphabetically, which corresponds to their unique identifier, and then by format.
+!!! note "Arrangement"
+    Oral history interviews are arranged alphabetically, which corresponds to their unique identifier, and then by format.
 
 3.  The inventory lists formats of each interview:
 
 !!! note "Inventory"
+```
 LOH001000_OH_001.mp3    Bob Jones; audio recording, 1988     
 LOH001000_OH_001.pdf    Bob Jones; transcript, 1988     
 LOH001000_OH_001.mp3    Jim Taylor; audio recording, 1985
 LOH001000_OH_001.pdf    Jim Taylor; transcript, 1985
+```
 
-Newspaper Clippings
+## Newspaper Clippings
 
 Clippings are not prime research material and should not take up
 significant time. Only clippings with important contextual information
