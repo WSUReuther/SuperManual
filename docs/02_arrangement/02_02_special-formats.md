@@ -263,7 +263,7 @@ In a 5-series manuscript collection, OH material is arranged in the last series 
 
 !!! note "Separated Material"
     Oral history audiotapes (Box 84) were transferred to AV
-    
+
 2.  The Arrangement note of the resource record states a general description:
 
 !!! note "Arrangement"
@@ -463,22 +463,22 @@ Room microfilm cabinet.
   1.  IF KEPT IN OPEN COLLECTION:
     1. Add minimal description in the Resource Record (i.e. use general terms to encompass several folders or boxes of material instead of listing each folder title).
     2. Where appropriate, apply a restriction to the collection:
-      1. Check the "restrictions apply" box under Basic Information
-      2. Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
-      3. Include whether a Restricted Use Form is required (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.)
-      4. To secure items with high monetary or intrinsic value (e.g., the correspondence of famous people, cartoon drawings):
-        1. Transfer item(s) to the vault with a photocopy in its original place.
-        2. The folder(s) should reference where the copies were (Box-Folder numbers) and completely state the collection title and accession number.
-        3. The folders are then stored in the available accumulated SB in the vault.
-        4. Include statement of transfer in the Separated Materials note of the resource record, statement of access in the Access note, and vault shelf location in the Location note of the ArchivesSpace record.
-      5. Note specific restricted folders or boxes in the inventory
-      6.  Apply "restricted use"
+      - Check the "restrictions apply" box under Basic Information
+      - Describe restricted material in the [Conditions GoverningAccess/Use](../03_shared/03_04_notes.md#conditions-governing-access) sections.
+      - Include whether a Restricted Use Form is required (generally limited to collections where material may not be quoted or cited; names and other personal information, which might identify an individual, cannot be cited; material is confidential, etc.)
+    3. To secure items with high monetary or intrinsic value (e.g., the correspondence of famous people, cartoon drawings):
+        - Transfer item(s) to the vault with a photocopy in its original place.
+        - The folder(s) should reference where the copies were (Box-Folder numbers) and completely state the collection title and accession number.
+        - The folders are then stored in the available accumulated SB in the vault.
+        - Include statement of transfer in the Separated Materials note of the resource record, statement of access in the Access note, and vault shelf location in the Location note of the ArchivesSpace record.
+    4. Note specific restricted folders or boxes in the inventory
+    5. Apply "restricted use"
     [labels](https://waynestateprod.sharepoint.com/:f:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/Labels?csf=1&web=1&e=gLZBpF)
     to boxes containing restricted material
  2.  IF DISCARDED:
-  1. Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
-  2. Shred material after the collection is fully arranged and described.
+  - Make a list of items removed from the collection and add it to the case file and in the Resource Record Collection Management subrecord.
+  - Shred material after the collection is fully arranged and described.
  3.  IF CLOSED temporarily:
-  1. Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
-  2. Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
-  3. Create a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event linked to the resource record so these items can be added when opened.
+  - Do not describe closed portions in any published subrecord of the Resource Record. Either leave those portions unpublished or make a separate list to keep in the case file.
+  - Be sure the Resource Record's "restrictions apply" box is checked and the items are described in the "repository processing notes."
+  - Create a [Temporarily Closed](../03_shared/03_02_events.md#temporarily-closed) event linked to the resource record so these items can be added when opened.
