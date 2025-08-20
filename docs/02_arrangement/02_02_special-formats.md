@@ -152,8 +152,8 @@ Examples:
 | File Name | Description |
 | --- | --- |
 | LOH002210_OH_001_A.wav | an oral history recording on side A of a tape, or an oral history recording from a tape only recorded on a single side |
-| UR000501_OH_024_B.mp3 | an oral history recording on side B of a tape from a records collection
-| UOH000037_OH_007.wav | an oral history recording from a CD or born digital
+| UR000501_OH_024_B.mp3 | an oral history recording on side B of a tape from a records collection |
+| UOH000037_OH_007.wav | an oral history recording from a CD or born digital |
 
 ### Transcripts
 
