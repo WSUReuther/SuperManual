@@ -109,7 +109,6 @@ Linking to a personal name:
 -   Parent: For a person who is the parent of the named person.
 
 ### Donor Organization Names as ASpace Agents
-
 Agents for our common donor organizations already exist in ASpace.
 Select the appropriate agent rather than creating a new one.
 
