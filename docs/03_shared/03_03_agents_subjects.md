@@ -22,8 +22,7 @@ Adding agents within the resource or accession record:
 
 1.  **Role**: Creator, Source, Subject. Select "Creator" if the agent generated the collection, "Source" if the material was donated by someone other than the record generator and select "Subject" for individuals or organizations represented in the subject contents of the collection.
 2.  **Agent**: Enter the agent name by typing it into the field or selecting "Browse" or "Create" from the dropdown.
-  1.  **Browse**: From the dropdown, select "Browse." Search for the agent using the box in the upper left, use the list to browse for the box, and/or use the facets listed on the left to narrow your search. After selecting the agent, select "Link to Agents."
-  ![Browse Agents](../img/aspace_browse_agents.png)
+  1.  **Browse**: From the dropdown, select "Browse." Search for the agent using the box in the upper left, use the list to browse for the box, and/or use the facets listed on the left to narrow your search. After selecting the agent, select "Link to Agents." ![Browse Agents](../img/aspace_browse_agents.png)
   2.  **Create**: To create a new agent, select "Create" from the dropdown. Then choose the creator type from the dropdown list [Person, Family, Corporate Entity, Software].
       1.  **Person** or **Family**:
           1.  **Basic Information > Publish**: Check.
