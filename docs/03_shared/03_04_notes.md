@@ -7,7 +7,6 @@ The use of note types will differ depending on the level of description — many
 ArchivesSpace has several note types that are not detailed below. **Do not** use note types that are not detailed below. Consult with the Collections Committee if information needs to be recorded that does not fit into any of the note guidelines below.
 
 ## Abstract
-
 *DACS*: n/a
 *Collection-level*: Required
 *Component-level*: Unused
@@ -18,7 +17,6 @@ An abstract note is a brief statement of high-level descriptive information for 
 [Biographical/Historical](#biographicalhistorical) note and [Scope and Contents](#scope-and-contents) note. A typical abstract will be between a few sentences to a paragraph long.
 
 ## Biographical/Historical
-
 *DACS*: [2.7](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
 *Collection-level*: Levels 1 and 2 required, Level 3 optional
 *Component-level*: Unused
@@ -30,7 +28,6 @@ Biographical/Historical notes are a short narrative biography of the person or h
 This note helps the researcher place the manuscript materials or records in their proper context. The focus should be on topics most represented in the collection being described.
 
 ## Scope and Contents
-
 *DACS*: [3.1](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 *Resource-level*: Required
 *Component-level*: Series-level optimal, lower-level optional/generally unused
@@ -44,7 +41,6 @@ The collection-level Scope and Contents note should describe the collection as a
 **Examples**
 
 ## Conditions Governing Access
-
 *DACS*: [4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)
 *Resource-level*: Required
 *Component-level*: Optional
@@ -64,8 +60,7 @@ Collection is open for research, but Boxes 5 and 6 must remain with the Reading 
 
 Collection is closed for research. Permission for access may be granted by the Reuther Director.
 
-## Conditions Governing Use {#conditions-governing-use-1}
-
+## Conditions Governing Use
 *DACS*: [4.4](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
 *Resource-level*: Required
 *Component-level*: Optional
@@ -77,6 +72,7 @@ Conditions Governing Use notes detail any restrictions on reproduction or public
 The Reuther has drafted several boilerplate statements to be used with collections based on processing levels and/or those that include oral histories, listed below. Use the appropriate statement and add any additional restrictions specific to that collection, if applicable. If an additional use restriction is needed, specify what portion of the collection it applies to (a specific box, the whole collection, etc.) and provide an explanation of why a use agreement will be required. Make sure the "restrictions apply" box is checked under Basic Information in the resource record.
 
 **Boilerplate Text**
+
 
 | Use | Text |
 | --- | --- |
@@ -95,10 +91,10 @@ RESEARCHERS USING THE [COLLECTION NAME] ARE REQUIRED TO SIGN A RESTRICTED USE ST
 RESEARCHERS MUST SIGN A RESTRICTED USE STATEMENT AND AGREE TO ABIDE BY THE SPECIFIC RESTRICTIONS OUTLINED IN THE FAMILY EDUCATIONAL RIGHTS AND PRIVACY ACT (FERPA). NO NAMES OR OTHER PERSONAL INFORMATION FOUND IN THE RECORDS MAY BE USED, QUOTED, OR CITED.
 
 ## Physical Location
-
 *DACS*: [4.2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html)
 *Resource-level*: Required
 *Component-level*: Unused
+
 
 !!! note Our current use of Physical Location notes differs from their intended use and will eventually be replaced with ArchivesSpace Top Container/Location management functionality
 
@@ -113,7 +109,6 @@ Since a single collection may be housed throughout the building, specify the loc
 Part #: physloc [boxes #-#], physloc [boxes #-#, #]; Part #: physloc [box #], physloc [volumes #-#]. Example: Part 1: 3S-B-2(1)[Boxes 1-6), 3S-C-2(2)[Boxes 7-12]; Part 2: 4W-W-2(1-4)[Boxes 13-34]
 
 ## Immediate Source of Acquisition
-
 *DACS*: [5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
 *Resource-level*: Required
 *Component-level*: Unused
@@ -128,7 +123,6 @@ The [collection title] were/was donated to the Walter P. Reuther
 Library in/on [date] by [donor].
 
 ## Processing Information
-
 *DACS*: [7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information)
 *Resource-level*: Required
 *Component-level*: Unused
@@ -147,8 +141,7 @@ Processed and finding aid written by [Walter P. Reuther Library] on [Month Day, 
 
 Processed and finding aid written by Walter P. Reuther Library in 1986 and new material processed and finding aid updated by [Archivist Name] on May 22, 2025.
 
-## Arrangement {#arrangement-1}
-
+## Arrangement
 *DACS*: [3.2](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/02_system_of_arrangement.html)
 *Resource-level*: Required
 *Component-level*: Unused
@@ -165,14 +158,12 @@ If material is a single oral history transcript, the Arrangement note should rea
 
 | Level | Text |
 | --- | --- |
-| Level 1 | Arranged in [##] series -- Series 1 (Box [#]), Series 2 (Box [##-##]) and Series 3 (Box [##-##]). Folders are arranged alphabetically, chronologically, in original order, etc. Additional arrangement description, if needed. |
+| Level 1 | Arranged in [##] series -- Series 1 (Box [#]), Series 2 (Box [##-##]) and Series 3 (Box [##-##]). Folders are arranged alphabetically, chronologically, in original order, etc. [Additional arrangement description, if needed.] |
 | Level 2 | The collection is arranged into [#] series. Folders in each series are simply listed by their location within each box. They are not arranged, so any given subject may be dispersed throughout several boxes within each series. Series 1: Title, YYYY-YYYY (Box #-#) Series 2: Title, YYYY-YYYY (Box #-#) Series 3: Title, YYYY-YYYY (Box #-#) Series [#]: Title, YYYY-YYYY (Box #-#) |
 | Level 3 | Folders are listed by their location within each box. They are not necessarily arranged, so any given subject may be dispersed throughout the entire collection. |
 
 ## Preferred Citation
-
-*DACS*:
-[7.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#citation)
+*DACS*: [7.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#citation)
 *Resource-level*: Required
 *Component-level*: Unused
 
@@ -187,7 +178,6 @@ Additionally, for collections containing oral histories, add the following:
 "[Collection Name], [Interviewee Name] Interview, Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University"
 
 ## Related Materials
-
 *DACS*: [6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
 *Resource-level*: Required if applicable
 *Component-level*: Unused
@@ -197,7 +187,6 @@ Additionally, for collections containing oral histories, add the following:
 List of related Reuther Library collections, by title and accession number.
 
 ## Separated Materials
-
 *DACS*: [6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
 *Resource-level*: Required if applicable
 *Component-level*: Unused
@@ -213,7 +202,6 @@ List and location of collection materials not stored with manuscript materials i
 Mircofilm from this collection is stored in the Reading Room microfilm cabinet, Box 29.
 
 ## Custodial History
-
 *DACS*: [5.1](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/01_custodial_history.html)
 *Resource-level*: Required if applicable
 *Component-level*: Unused
@@ -223,7 +211,6 @@ Mircofilm from this collection is stored in the Reading Room microfilm cabinet, 
 Add only if collection transferred from another repository which retained ownership prior to the Reuther obtaining the collection. Record any successive transfers of ownership of the collection prior to the Reuther accessioning the collection. Include the collection's previous title and/or accession number if different than what is in use at the Reuther.
 
 ## Existence and Location of Copies
-
 *DACS*: [6.2](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/02_existence_and_location_of_copies.html)
 *Resource-level*: Required if applicable
 *Component-level*: Required if applicable
@@ -237,7 +224,6 @@ Describe any digital or analog copies of collection materials and the location. 
 Transcripts were digitized and are available as PDF files.
 
 ## General
-
 *DACS*: [7.1](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html)
 *Resource-level*: Required if applicable
 *Component-level*: Unused
