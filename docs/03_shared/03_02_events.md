@@ -28,7 +28,7 @@ Note that for Processing New, Processing In Progress, and Processed, often the e
 The following table shows the possible combination of events in any single ArchivesSpace record (indicated with an x):
 
 | Event: | Processing Partial | Temporarily Closed | Deaccession | Digitization |
-| --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: |
 | Processing New | | | x | |              
 | Processing In Progress | | | x |
 | Processed | x | x | x | x |
