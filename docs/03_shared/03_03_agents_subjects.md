@@ -56,7 +56,7 @@ Adding agents within the resource or accession record:
 
           ![Create Family](../img/aspace_agents-family.png)
 
-        2.  **Corporate Entity**:
+      2.  **Corporate Entity**:
           1.  **Basic Information > Publish**: Check.
           2.  **Name Forms > Authority ID**: If using a NACO authority record, enter the LC Control no. If creating a Reuther Agent, enter the next available Reuther Agent ID from the Reuther Agent Numbers spreadsheet. Enter the new agent on the spreadsheet next to the ID.
           3.  **Name Forms > Source**: Reuther Agents, NACO Authority File
