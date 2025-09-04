@@ -29,7 +29,7 @@ The following table shows the possible combination of events in any single Archi
 
 | Event: | Processing Partial | Temporarily Closed | Deaccession | Digitization |
 | :--- | :---: | :---: | :---: | :---: |
-| Processing New | | | x | |              
+| Processing New | | | x | |
 | Processing In Progress | | | x |
 | Processed | x | x | x | x |
 | Processing Queue | | | x | |
@@ -139,7 +139,7 @@ A Processing Queue event is created instead of a Processed event and indicates t
 
 ## Temporarily Closed
 
-A Temporarily Closed event indicates that the collection is partially orentirely closed due to restriction(s) for a finite time period. It is only applied to processed collections (i.e., resource records) and is used with the Processed event (i.e., the resource record must have a Processed event as well as a Temporarily Closed event).
+A Temporarily Closed event indicates that the collection is partially or entirely closed due to restriction(s) for a finite time period. It is only applied to processed collections (i.e., resource records) and is used with the Processed event (i.e., the resource record must have a Processed event as well as a Temporarily Closed event).
 
 1.  **Basic Information**
     1.  **Type**: temporarily_closed
