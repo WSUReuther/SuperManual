@@ -13,8 +13,7 @@ ArchivesSpace has several note types that are not detailed below. **Do not** use
 
 **Content Guidelines**
 
-An abstract note is a brief statement of high-level descriptive information for an entire collection. It should include the most important information from the
-[Biographical/Historical](#biographicalhistorical) note and [Scope and Contents](#scope-and-contents) note. A typical abstract will be between a few sentences to a paragraph long.
+An abstract note is a brief statement of high-level descriptive information for an entire collection. It should include the most important information from the [Biographical/Historical](#biographicalhistorical) note and [Scope and Contents](#scope-and-contents) note. A typical abstract will be between a few sentences to a paragraph long.
 
 ## Biographical/Historical
 *DACS*: [2.7](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
@@ -47,8 +46,7 @@ The collection-level Scope and Contents note should describe the collection as a
 
 **Content Guidelines**
 
-Conditions Governing Access note is a succinct statement regarding any access restrictions to the materials. Access restrictions should be placed on a collection if some of the material in a collection is not available to researchers. Restrictions may be imposed by the donor, the institution's policies, or the sensitive nature of the materials. The note should specify the details of the restriction, indicate the specific materials to which the restriction applies (e.g., the entire collection, a particular series, a particular box, etc.) and, if applicable, the duration of the restriction or the date on which the restriction will be lifted. Optionally, use a second, unpublished subnote to communicate restriction details internally. *If a collection contains an access restriction, be sure the "restrictions apply" box is checked under* [Basic Information](https://../02_arrangement/02_03_resources.md#basic-information)
-*in the resource record.*
+Conditions Governing Access note is a succinct statement regarding any access restrictions to the materials. Access restrictions should be placed on a collection if some of the material in a collection is not available to researchers. Restrictions may be imposed by the donor, the institution's policies, or the sensitive nature of the materials. The note should specify the details of the restriction, indicate the specific materials to which the restriction applies (e.g., the entire collection, a particular series, a particular box, etc.) and, if applicable, the duration of the restriction or the date on which the restriction will be lifted. Optionally, use a second, unpublished subnote to communicate restriction details internally. *If a collection contains an access restriction, be sure the "restrictions apply" box is checked under* [Basic Information](https://../02_arrangement/02_03_resources.md#basic-information) *in the resource record.*
 
 **Examples**
 
@@ -119,8 +117,7 @@ An Immediate Source of Acquisition note indicates the person or corporate body f
 
 **Boilerplate Language**
 
-The [collection title] were/was donated to the Walter P. Reuther
-Library in/on [date] by [donor].
+The [collection title] were/was donated to the Walter P. Reuther Library in/on [date] by [donor].
 
 ## Processing Information
 *DACS*: [7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information)
@@ -230,5 +227,4 @@ Transcripts were digitized and are available as PDF files.
 
 **Content Guidelines**
 
-Add only if related collection has one or more related WSULS Special
-Collections. (Add as many collection titles as needed)
+Add only if related collection has one or more related WSULS Special Collections. (Add as many collection titles as needed)
