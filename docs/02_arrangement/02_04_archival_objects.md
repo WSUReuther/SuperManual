@@ -44,7 +44,7 @@ To create an Archival Object, first select the existing record or object (Resour
 
 If the existing record is a Resource, only the "Add Child" button will be available:
 
-![Add Child](../img/asapce_add_child.png)
+![Add Child](../img/aspace_add_child.png)
 
 If the existing record is an Archival Object, both "Add Child" and "Add Sibling" buttons will be available:
 
