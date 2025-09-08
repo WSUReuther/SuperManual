@@ -182,13 +182,13 @@ Components(s) moved to specified position.
 1.  **Select**: Enable Reorder Mode. While in reorder mode, Components cannot be added, deleted, transferred, and Rapid Data Entry mode cannot be used.
 2.  **Select**: the drag bar at the left of one or more components to move (to select more than one, use ctrl + click / command + click). Selected components are highlighted and numbered in the order in which they will be moved.
 
-![Reorder Components - Select Multiple](../img/aspace_resource_reorder-multi.png)
+![Reorder Components - Select Multiple](../img/aspace_resource_redorder-multi.png)
 
 3.  **Drag** to the desired position in the inventory tree
 
 4.  **Select**: (Add Items Before, Add Items as Children, Add Items After)
 
-![Reorder Component - Add Items](.../img/aspace_resource_reorder-add-items.png)
+![Reorder Component - Add Items](../img/aspace_resource_reorder-add-items.png)
 
 #### Cut/Paste - To Move Components as Children of Another Component
 
