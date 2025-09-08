@@ -98,7 +98,7 @@ The columns in the RDE form may be ordered in a way that promotes ease-of-use. S
 
 One of the most useful features of RDE is the ability to save and load RDE Templates. For most typical operations, the same columns will be stickied, hidden, and reordered. For those cases, the form configuration can be saved as a template and loaded on each subsequent. As an example, the Reuther's ArchivesSpace instance has an "Inventory" template, shown below:
 
-[RDE Template](../img/aspace_rde_template.png)
+![Rapid Data Entry Template](../img/aspace_rde_template.png)
 
 This template includes only those columns required to create a folder listing consisting of titles, dates, containers, and one note.
 
