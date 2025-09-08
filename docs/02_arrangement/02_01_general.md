@@ -93,9 +93,9 @@ The following guidelines give a comprehensive approach. Depending to what level 
 ### Arrange the Collections
 
 For **Level I or II**: If applicable and not already determined by creator, separate the collection into 2 or more series. *Do not create a collection with only 1 series*.
-    1.  For **Level I**, impose (or leave existing) system of arrangement.
-    2.  For **Level II**, leave each series as it stands, physically arranging only to consolidate folders within a single box.
-    3.  For **Level III**: simply leave the collection as it stands, physically arranging only to consolidate folders within a single box.
+1.  For **Level I**, impose (or leave existing) system of arrangement.
+2.  For **Level II**, leave each series as it stands, physically arranging only to consolidate folders within a single box.
+3.  For **Level III**: simply leave the collection as it stands, physically arranging only to consolidate folders within a single box.
 
 #### Discards
 
