@@ -52,7 +52,7 @@ If the existing record is an Archival Object, both "Add Child" and "Add Sibling"
 
 The new Archival Object will be created and you will be redirected to the blank Archival Object record.
 
-![New Archival Object](../img/aspace+new-Archival_object.png)
+![New Archival Object](../img/aspace_new_archival_object.png)
 
 ## Rapid Data Entry
 
