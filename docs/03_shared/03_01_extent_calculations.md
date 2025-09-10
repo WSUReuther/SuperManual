@@ -29,7 +29,7 @@ Use the following formatting when listing multiple types of extent values:
 *  \# linear feet (# containers or items), # items. # recordings and/or transcripts
 *  \# bytes (# files). Specific file types
 
-!!! note ""½ MBs are distinguished from MBs for extent calculation purposes ONLY. When writing extent statements, list and count ½ MBs as regular MBs."
+!!! note "½ MBs are distinguished from MBs for extent calculation purposes ONLY. When writing extent statements, list and count ½ MBs as regular MBs."
 
     Examples:
 
