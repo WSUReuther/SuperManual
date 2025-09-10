@@ -2,6 +2,7 @@ site_name: Walter P. Reuther Library SuperManual
 
 theme:
     name: material
+    features: navigation.footer
 
 markdown_extensions:
     - admonition

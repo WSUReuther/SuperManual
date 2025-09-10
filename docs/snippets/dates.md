@@ -5,11 +5,15 @@ The Reuther uses an ArchivesSpace plugin called [timewalk](https://github.com/al
 
 If exact dates cannot be determined, but approximate dates can be inferred, enter the Date Expression as `circa [date]`. If no dates can be determined or inferred, enter a Date Expression of `undated`. Alternatively, for lower-level Archival Objects, do not add any Date subrecords; this will result in ArchivesSpace inheriting down the closest parent record's Date information for display and search in the Public User Interface. For example, an Archival Object with no Date subrecords that is a child of a Sub-Series with a date range of `1950-1970` will have that Date range associated with it.
 
-At the Resource level, record one Inclusive or Single Date and, if applicable, one Bulk date. At the Archival Object/component level, record as many Inclusive or Single dates as necessary, favoring one or two inclusive ranges when possible, and one Bulk date if applicable. 
+At the Resource level, record one Inclusive or Single Date and, if applicable, one Bulk date. At the Archival Object/component level, record as many Inclusive or Single dates as necessary, favoring one or two inclusive ranges when possible, and one Bulk date if applicable.
 
 For each date:
 
-1.  **Select**: Add Date or + if necessary to add a new Date subrecord
-1.	**Label**: Creation
-2.	**Expression**: [Date]
-3.	**Type**: Choose one: Inclusive, Single, or Bulk
+**Select**: Add Date or + if necessary to add a new Date subrecord
+
+  1. **Label**: Creation
+  2. **Expression**: [Date]
+  3. **Type**: Choose one:
+      1. Inclusive
+      2. Single
+      3. Bulk

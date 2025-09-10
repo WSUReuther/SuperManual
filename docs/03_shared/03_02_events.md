@@ -23,7 +23,7 @@ Edit the information in [ ]s (and delete the brackets). Choose the proper select
 
 The instructions below can be used both for creating and editing event records.
 
-Note that for Processing New, Processing In Progress, and Processed, often the event can simply be edited to a different event type rather than creating a brand-new event.
+!!! note "For Processing New, Processing In Progress, and Processed, often the event can simply be edited to a different event type rather than creating a brand-new event."
 
 The following table shows the possible combination of events in any single ArchivesSpace record (indicated with an x):
 

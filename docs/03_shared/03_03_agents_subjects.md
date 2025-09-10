@@ -20,61 +20,64 @@ The instructions below can be used both for creating and editing agent and subje
 
 Adding agents within the resource or accession record:
 
-1.  **Role**: Creator, Source, Subject. Select "Creator" if the agent generated the collection, "Source" if the material was donated by someone other than the record generator and select "Subject" for individuals or organizations represented in the subject contents of the collection.
-2.  **Agent**: Enter the agent name by typing it into the field or selecting "Browse" or "Create" from the dropdown.
-  1.  **Browse**: From the dropdown, select "Browse." Search for the agent using the box in the upper left, use the list to browse for the box, and/or use the facets listed on the left to narrow your search. After selecting the agent, select "Link to Agents." ![Browse Agents](../img/aspace_browse_agents.png)
-  2.  **Create**: To create a new agent, select "Create" from the dropdown. Then choose the creator type from the dropdown list [Person, Family, Corporate Entity, Software].
-      1.  **Person** or **Family**:
-          1.  **Basic Information > Publish**: Check.
-          2.  **Name Forms**:
-              1.  **Name Forms > Authority ID**: If using a NACO authority record, enter the LC Control no. If creating a Reuther Agent, enter the next available Reuther Agent ID from the Reuther Agent Numbers spreadsheet. Enter the new agent on the spreadsheet next to the ID.
-              2.  **Name Forms > Source**: Reuther Agents or NACO Authority File
-              3.  **Name Forms > Rules**: Reuther Agents: Describing Archives: A Content Standard; NACO Authorities: Anglo-American Cataloging Rules or Resource Description and Access (AACR for all non-RDA agents)
-              4.  **Name Forms > Name Order**: Leave as "Indirect."
-              5.  **Name Forms > Prefix**: Record the prefix if applicable.
-              6.  **Name Forms > Title**: Record the title if applicable
-              7.  **Name Forms > Primary Part of Name**: Record the last name.
-              8.  **Name Forms > Rest of Name**: Record the first and middle names.
-              9. **Name Forms > Suffix**: Record a term that follows the name, if applicable.
-              10. **Name Forms > Fuller Form**: If the first and middle names were abbreviated, this is where the complete versions are recorded.
-              11. **Name Forms > Number**: Add number if applicable.
-          3. **Description Information**:
-              1. **Dates of Existence**: Select "Add Date" if using a Reuther Agent, or the NACO agent has a date.
-                1.  **Type**: Range, Single
-                2.  **Certainty**: Leave blank if date is confirmed, otherwise select "Approximate" if using circa or active dates.
-                    1.  **Range Date > Expression**: Only use if entering circa dates or active dates. Only use active date(s) if the agent is a Reuther agent and birth or death dates cannot be determined or approximated.
-                    2.  **Range > Begin Standardized Date**: Type date using the format YYYY or YYYY-MM-DD, or select date from calendar
-                    3.  **Range > End Standardized Date**: Type date using the format YYYY or YYYY-MM-DD, or select date from calendar
-                    4. **Single Date > Date Role**: Begin or End
-                    5. **Single Date > Standardized Date**: Type or select date from calendar
-          4. **Relation Information**
-              1. **Related Agents**: If there is a [related agent](#related-agent-rules), add it.
-          5. **Save Person**: Select.
+**Role**: Creator, Source, Subject. Select "Creator" if the agent generated the collection, "Source" if the material was donated by someone other than the record generator and select "Subject" for individuals or organizations represented in the subject contents of the collection.
+
+**Agent**: Enter the agent name by typing it into the field or selecting "Browse" or "Create" from the dropdown.
+
+  1. **Browse**: From the dropdown, select "Browse." Search for the agent using the box in the upper left, use the list to browse for the box, and/or use the facets listed on the left to narrow your search. After selecting the agent, select "Link to Agents." ![Browse Agents](../img/aspace_browse_agents.png)
+  2. **Create**: To create a new agent, select "Create" from the dropdown. Then choose the creator type from the dropdown list [Person, Family, Corporate Entity, Software].
+    1. **Person** or **Family**:
+        1. **Basic Information > Publish**: Check.
+        2. **Name Forms**:
+            - **Name Forms > Authority ID**: If using a NACO authority record, enter the LC Control no. If creating a Reuther Agent, enter the next available Reuther Agent ID from the Reuther Agent Numbers spreadsheet. Enter the new agent on the spreadsheet next to the ID.
+            - **Name Forms > Source**: Reuther Agents or NACO Authority File
+            - **Name Forms > Rules**: Reuther Agents: Describing Archives: A Content Standard; NACO Authorities: Anglo-American Cataloging Rules or Resource Description and Access (AACR for all non-RDA agents)
+            - **Name Forms > Name Order**: Leave as "Indirect."
+            - **Name Forms > Prefix**: Record the prefix if applicable.
+            - **Name Forms > Title**: Record the title if applicable
+            - **Name Forms > Primary Part of Name**: Record the last name.
+            - **Name Forms > Rest of Name**: Record the first and middle names.
+            - **Name Forms > Suffix**: Record a term that follows the name, if applicable.
+            - **Name Forms > Fuller Form**: If the first and middle names were abbreviated, this is where the complete versions are recorded.
+            - **Name Forms > Number**: Add number if applicable.
+        3. **Description Information**:
+          1. **Dates of Existence**: Select "Add Date" if using a Reuther Agent, or the NACO agent has a date.
+            - **Type**: Range, Single
+            - **Certainty**: Leave blank if date is confirmed, otherwise select "Approximate" if using circa or active dates.
+                - **Range Date > Expression**: Only use if entering circa dates or active dates. Only use active date(s) if the agent is a Reuther agent and birth or death dates cannot be determined or approximated.
+                - **Range > Begin Standardized Date**: Type date using the format YYYY or YYYY-MM-DD, or select date from calendar
+                - **Range > End Standardized Date**: Type date using the format YYYY or YYYY-MM-DD, or select date from calendar
+                - **Single Date > Date Role**: Begin or End
+                - **Single Date > Standardized Date**: Type or select date from calendar
+        4. **Relation Information**
+            -  **Related Agents**: If there is a [related agent](#related-agent-rules), add it.
+        5. **Save Person**: Select.
 
           ![Create Person](../img/aspace_agent-person.png)
 
           ![Create Family](../img/aspace_agents-family.png)
 
       2.  **Corporate Entity**:
-          1.  **Basic Information > Publish**: Check.
-          2.  **Name Forms > Authority ID**: If using a NACO authority record, enter the LC Control no. If creating a Reuther Agent, enter the next available Reuther Agent ID from the Reuther Agent Numbers spreadsheet. Enter the new agent on the spreadsheet next to the ID.
-          3.  **Name Forms > Source**: Reuther Agents, NACO Authority File
-          4.  **Name Forms > Rules**: Reuther Agents: Describing Archives: A Content Standard; NACO Authorities: Anglo-American Cataloging Rules, Resource Description and Access (AACR for all non-RDA agents)
-          5.  **Name Forms > Primary Part of Name**: Enter the creator name.
-          6.  **Name Forms > Subordinate Name 1**: Enter the narrower creator name (e.g., Local name)
-          7.  **Name Forms > Qualifier**: Enter any qualifier (e.g.,
+          1. **Basic Information > Publish**: Check.
+          2. **Name Forms**:
+            - **Name Forms > Authority ID**: If using a NACO authority record, enter the LC Control no. If creating a Reuther Agent, enter the next available Reuther Agent ID from the Reuther Agent Numbers spreadsheet. Enter the new agent on the spreadsheet next to the ID.
+            - **Name Forms > Source**: Reuther Agents, NACO Authority File
+            - **Name Forms > Rules**: Reuther Agents: Describing Archives: A Content Standard; NACO Authorities: Anglo-American Cataloging Rules, Resource Description and Access (AACR for all non-RDA agents)
+            - **Name Forms > Primary Part of Name**: Enter the creator name.
+            - **Name Forms > Subordinate Name 1**: Enter the narrower creator name (e.g., Local name)
+            - **Name Forms > Qualifier**: Enter any qualifier (e.g.,
             location such as "Detroit, Mich.")
-          8.  **Dates of Existence**: Select "Add Date" if using the agent is a Reuther Agent, or the NACO agent has a date.
+          3.  **Dates of Existence**: Select "Add Date" if using the agent is a Reuther Agent, or the NACO agent has a date.
               1.  **Date Type** > Range or Single
-                  1.  **Range Date > Expression**: Only use if entering circa dates or active dates. Only enter active date(s) (date range agent participated, e.g., 1900-1932; 20th century; 1975) if agent is a Reuther agent and birth date cannot be determined or approximated.)
-                  2.  **Range > Begin Standardized Date**: Type or select date from calendar
-                  3.  **Range > End Standardized Date**: Type or select date from calendar
-                  4. **Single Date > Expression**: Only use if entering circa dates or active dates. Only enter active date(s) (date range agent participated, e.g., 1900-1932; 20th century; 1975) if agent is a Reuther agent and birth date cannot be determined or approximated.)
-                  5.  **Single Date > Date Role**: Begin or End
-                  6.  **Single Date > Standardized Date**: Type or select date from calendar
-                  7. **Certainty**: Leave blank if date is confirmed, otherwise select "Approximate" if using circa or active dates.
-            9. **Related Agents**: If there is a [related agent](#related-agent-rules), add it.
-            10.  **Save Corporate Entity**: Select.
+              2.  **Range Date > Expression**: Only use if entering circa dates or active dates. Only enter active date(s) (date range agent participated, e.g., 1900-1932; 20th century; 1975) if agent is a Reuther agent and birth date cannot be determined or approximated.)
+                  - **Range > Begin Standardized Date**: Type or select date from calendar
+                  - **Range > End Standardized Date**: Type or select date from calendar
+                  - **Single Date > Expression**: Only use if entering circa dates or active dates. Only enter active date(s) (date range agent participated, e.g., 1900-1932; 20th century; 1975) if agent is a Reuther agent and birth date cannot be determined or approximated.)
+                  - **Single Date > Date Role**: Begin or End
+                  - **Single Date > Standardized Date**: Type or select date from calendar
+                  - **Certainty**: Leave blank if date is confirmed, otherwise select "Approximate" if using circa or active dates.
+            4. **Related Agents**: If there is a [related agent](#related-agent-rules), add it.
+            5. **Save Corporate Entity**: Select.
 
     ![Create Corporate Entity](../img/aspace_agents-corporate.png)
 
@@ -84,28 +87,28 @@ relationship type:
 
 Linking to a corporate entity:
 
--   Associative: For a person holding the office named in the corporate
+-   `Associative`: For a person holding the office named in the corporate
     agent record.
--   Earlier: For a previous earlier form of the corporate agent record.
--   Later: For a subsequent form of the corporate agent record.
--   Subordinate: For a corporate entity "contained" in the corporate
+-   `Earlier`: For a previous earlier form of the corporate agent record.
+-   `Later`: For a subsequent form of the corporate agent record.
+-   `Subordinate`: For a corporate entity "contained" in the corporate
     name.
--   Superior: For a corporate entity "containing" the corporate name.
+-   `Superior`: For a corporate entity "containing" the corporate name.
 
 Linking to a family name:
 
--   Associative: For a person who is a member of the family.
--   Earlier: For a previous version of the family name.
--   Later: For a subsequent version of the family name.
+-   `Associative`: For a person who is a member of the family.
+-   `Earlier`: For a previous version of the family name.
+-   `Later`: For a subsequent version of the family name.
 
 Linking to a personal name:
 
--   Associative: For a corporate name, or other person, to which the
+-   `Associative`: For a corporate name, or other person, to which the
     person is associated
--   Child: For a person who is a child of the named person.
--   Earlier: For an earlier form of the named person.
--   Later: For a later form of the named person.
--   Parent: For a person who is the parent of the named person.
+-   `Child`: For a person who is a child of the named person.
+-   `Earlier`: For an earlier form of the named person.
+-   `Later`: For a later form of the named person.
+-   `Parent`: For a person who is the parent of the named person.
 
 ### Donor Organization Names as ASpace Agents
 Agents for our common donor organizations already exist in ASpace.

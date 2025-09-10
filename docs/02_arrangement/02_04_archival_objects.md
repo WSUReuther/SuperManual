@@ -32,7 +32,7 @@ When adding descriptive elements to Archival Objects, adhere to the principle of
 
 This section describes the process by which individual Archival Objects can be added.
 
-!!! note This process is best suited to occasions when only a few Archival Objects need to be created (e.g., adding just a couple of folders to the arrangement). For adding objects in bulk, refer to the [Rapid Data Entry](#rapid-data-entry) and [Spreadsheet Bulk Import](#spreadsheet-bulk-import) guidelines below.
+!!! note "This process is best suited to occasions when only a few Archival Objects need to be created (e.g., adding just a couple of folders to the arrangement). For adding objects in bulk, refer to the [Rapid Data Entry](#rapid-data-entry) and [Spreadsheet Bulk Import](#spreadsheet-bulk-import) guidelines below."
 
 New Archival Objects can be added to a Resource as either a "child" or a "sibling," which will be used to determine its position in the intellectual arrangement relative to the currently selected Resource or Archival Object.
 
@@ -58,7 +58,7 @@ The new Archival Object will be created and you will be redirected to the blank 
 
 ArchivesSpace's Rapid Data Entry (RDE) feature can be used to create many Archival Objects at the same level in a more efficient way than creating them one-by-one as described above. Note that RDE can only be used to add "child" level Archival Objects to a given record. As such, RDE will often need to be paired with some individual Archival Object creation. A common workflow might involve manually creating a Series-level Archival Object and then using RDE to add the folder listing associated with that Series-level object.
 
-!!! note RDE is best suited to creating a small-to-medium number of Archival Objects as children of a single record at one time. Do not attempt to use RDE to create dozens and dozens of Archival Objects at once, as you may lose your work due to technical errors. RDE will also not allow you to create multiple levels of description at once. To create many Archival Objects at once, especially when creating multiple levels of description, refer to the [Spreadsheet Bulk Import](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/ASpace_bulk_import_template.xlsx) guidelines below.
+!!! note "RDE is best suited to creating a small-to-medium number of Archival Objects as children of a single record at one time. Do not attempt to use RDE to create dozens and dozens of Archival Objects at once, as you may lose your work due to technical errors. RDE will also not allow you to create multiple levels of description at once. To create many Archival Objects at once, especially when creating multiple levels of description, refer to the [Spreadsheet Bulk Import](https://waynestateprod.sharepoint.com/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/ASpace_bulk_import_template.xlsx) guidelines below."
 
 To use Rapid Data Entry, select the Archival Object to which you would like to add child-level records and click the "Rapid Data Entry" button.
 

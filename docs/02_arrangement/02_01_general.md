@@ -8,15 +8,13 @@ Post-accessioning, if collections cannot be immediately processed at one of the 
 
 2.  **Archivist** creates an ArchivesSpace using collection-level description (copy and paste any relevant info from ArchivesSpace
 
-!!! note - *If the collection is an addition or accrual*, the existing ArchivesSpace resource record will be edited instead. ArchivesSpace will amalgamate a new inventory onto the end of the current inventory list. Restricted accruals may be published at the discretion of the collection archivist.
+!!! note
 
-      1. If an inventory exists in electronic format, it can be copied and pasted into the [ArchivesSpace Bulk Import Template](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/ASpace_bulk_import_template.xlsx?d=w90e4f1e292594c3da05912268ca05019&csf=1&web=1&e=VObW9h), imported into ArchivesSpace as a resource record, and merged. (Contact a staff member if you do not have access to the template).
-
-      2. If no inventory exists, the archivist determines whether the collection warrants series descriptions and/or box inventory and adds these to the ArchivesSpace resource record. List individual boxes separately.
-
-      3. For analog-only / hybrid collections: **Collection Archivist** prepares box labels and labels boxes. See for AV transfer instructions.
-
-      4. For born-digital materials: The **Digital Curation and Preservation Archivist** is responsible for stabilizing and normalizing electronic files. In coordination with Field/Collection Archivists, the Digital Curation and Preservation Archivist also creates an Archival Information Package (AIP) for long-term preservation and a Dissemination Information Package (DIP) for access, if necessary.
+      1. *If the collection is an addition or accrual*, the existing ArchivesSpace resource record will be edited instead. ArchivesSpace will amalgamate a new inventory onto the end of the current inventory list. Restricted accruals may be published at the discretion of the collection archivist.
+      2. If an inventory exists in electronic format, it can be copied and pasted into the [ArchivesSpace Bulk Import Template](https://waynestateprod.sharepoint.com/:x:/r/sites/Libraries/Reuther/Documents/Collections/Arrangement_Description/ASpace_bulk_import_template.xlsx?d=w90e4f1e292594c3da05912268ca05019&csf=1&web=1&e=VObW9h), imported into ArchivesSpace as a resource record, and merged. (Contact a staff member if you do not have access to the template).
+      3. If no inventory exists, the archivist determines whether the collection warrants series descriptions and/or box inventory and adds these to the ArchivesSpace resource record. List individual boxes separately.
+      4. For analog-only / hybrid collections: **Collection Archivist** prepares box labels and labels boxes. See for AV transfer instructions.
+      5. For born-digital materials: The **Digital Curation and Preservation Archivist** is responsible for stabilizing and normalizing electronic files. In coordination with Field/Collection Archivists, the Digital Curation and Preservation Archivist also creates an Archival Information Package (AIP) for long-term preservation and a Dissemination Information Package (DIP) for access, if necessary.
 
 3.  **Collection Archivist** makes notes regarding actions (discards, transfers, etc.) in the ArchivesSpace and specifies if the collection (or parts thereof) needs processing, to what level it should be processed, and what priority status should be assigned. Assuming further processing is needed, a [Processing Queue](../03_shared/03_02_events.md#processing-queue) event is created to indicate the collection is part of the processing queue rather than fully processed and completed.
 4.  If no further processing is needed, create a [Processed](../03_shared/03_02_events.md#processed) event.
