@@ -46,7 +46,7 @@ The collection-level Scope and Contents note should describe the collection as a
 
 **Content Guidelines**
 
-Conditions Governing Access note is a succinct statement regarding any access restrictions to the materials. Access restrictions should be placed on a collection if some of the material in a collection is not available to researchers. Restrictions may be imposed by the donor, the institution's policies, or the sensitive nature of the materials. The note should specify the details of the restriction, indicate the specific materials to which the restriction applies (e.g., the entire collection, a particular series, a particular box, etc.) and, if applicable, the duration of the restriction or the date on which the restriction will be lifted. Optionally, use a second, unpublished subnote to communicate restriction details internally. *If a collection contains an access restriction, be sure the "restrictions apply" box is checked under* [Basic Information](https://../02_arrangement/02_03_resources.md#basic-information) *in the resource record.*
+Conditions Governing Access note is a succinct statement regarding any access restrictions to the materials. Access restrictions should be placed on a collection if some of the material in a collection is not available to researchers. Restrictions may be imposed by the donor, the institution's policies, or the sensitive nature of the materials. The note should specify the details of the restriction, indicate the specific materials to which the restriction applies (e.g., the entire collection, a particular series, a particular box, etc.) and, if applicable, the duration of the restriction or the date on which the restriction will be lifted. Optionally, use a second, unpublished subnote to communicate restriction details internally. *If a collection contains an access restriction, be sure the "restrictions apply" box is checked under* [Basic Information](../02_arrangement/02_03_resources.md#basic-information) *in the resource record.*
 
 **Examples**
 
@@ -94,7 +94,7 @@ RESEARCHERS MUST SIGN A RESTRICTED USE STATEMENT AND AGREE TO ABIDE BY THE SPECI
 *Component-level*: Unused
 
 
-!!! note Our current use of Physical Location notes differs from their intended use and will eventually be replaced with ArchivesSpace Top Container/Location management functionality
+!!! note "Our current use of Physical Location notes differs from their intended use and will eventually be replaced with ArchivesSpace Top Container/Location management functionality"
 
 **Content Guidelines**
 
