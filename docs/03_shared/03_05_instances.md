@@ -56,7 +56,7 @@ ArchivesSpace allows grandchild containers to describe yet another level of cont
 Digital Object Instances are used to associate links to digital content (e.g., a digitized PDF or image on the Reuther's file server, digital materials in WSULS Digital Collections, an archived website in Archive-It, etc.). Digital Object Instances require a linked Digital Object record to effectively create a link from an Archival Object to its online manifestation.
 
 !!! note
-"When adding Digital Object instances for digitized materials, ensure that a Resource-level [Existence and Location of Copies](../03_04_notes.md#existence-and-location-of-copies) note has been added"
+"When adding Digital Object instances for digitized materials, ensure that a Resource-level [Existence and Location of Copies](../03_04_notes#existence-and-location-of-copies) note has been added"
 
 ### Creating a Digital Object
 
