@@ -28,17 +28,35 @@ Top Containers will generally be unique to a given Resource and will be numbered
 Top Containers need only be created once for each distinct Top Container. From the Instances subrecord, click the down arrow next to the Top Container field and select "Create." A blank Top Container template will appear. Enter the following information:
 
 -  **Container Type**: Box, Folder, Volume, etc.
--  **Indicator**: The container number (1, 2, 3... 54, 55, etc.)
+-  **Indicator**: The container number (1, 2, 3... 54, 55, Oversize Various 1, etc.)
+
+If the top container will be linked to multiple resource records or will
+represent a non-typical storage container such as a scrapbook loose on a
+shelf, please add a location while creating the top container with these
+additional steps:
+
+- Select Add Location
+- Click the drop-down arrow next to the Location field and select "Browse"
+- Use the filters to browse the correct floor and room of the top container's location (e.g. Floor "2" and Room "N" for a location on 2N)
+- Use the "Filter by Text" field to quickly locate the row, column, shelf of the top container's location (e.g. Row: D, Column: 3, Shelf: 2)
+- Select the correct location and click "Link"
 
 Then click the "Create and Link to Top Container" button
 
-![Create Top Container](../img/aspace_create_top_container.png)
+![Create Top Container](../img/03_05_01_CreateTopContainerLocation.png)
+
+![Browse Location](../img/03_05_02_CreateTopContainerLocationBrowse.png)
 
 #### Linking a Top Container
 
-Once a Top Container has been created, it should then be linked to all subsequent Container Instances to which it applies. To link an existing Top Container record, search in the Top Container search box within the appropriate container from the displayed results.
+If linking to a top container outside of the resource record you are working with, you will need to:
 
-![Link Top Container](../img/aspace_link_top_container.png)
+- Click the Top Container drop down arrow and select "Browse"
+- Delete the resource record title from the Resource field
+- Use the keyword field to search for the name of the top container you wish to link (e.g. Oversize Various 1; Small Processed Collections: D, Box 4)
+- Select the correct top container and click "Link"
+
+![Link Top Container](../img/03_05_03_LinkTopContainersOutsideResource.png)
 
 ### Child Containers
 
