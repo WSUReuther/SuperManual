@@ -104,7 +104,11 @@ The Reuther currently uses collection-level Physical Location notes to record th
 
 Since a single collection may be housed throughout the building, specify the location of individual boxes/items following this format (include only applicable information):
 
-Part #: physloc [boxes #-#], physloc [boxes #-#, #]; Part #: physloc [box #], physloc [volumes #-#]. Example: Part 1: 3S-B-2(1)[Boxes 1-6), 3S-C-2(2)[Boxes 7-12]; Part 2: 4W-W-2(1-4)[Boxes 13-34]
+Part #: [boxes #-#]physloc , [boxes #-#, #]physloc ; Part #: [box #]physloc , [volumes #-#]. Example: Part 1: [Boxes 1-6]3S-B-2(1), [Boxes 7-12]3S-C-2(2); Part 2: [Boxes 13-34]4W-W-2(1-4)
+
+If any of the locations correspond to top containers that will have something other than the collection title printed on a box label, such as a box containing more than one collection, please specify the top container name in brackets next to the shelf location in this field (i.e. [Small Processed Collections: D, Box 4] 2N-D-3(2) to make sure Reference can locate the correct box.
+
+![Physical Location](../img/03_04_01_PhysicalLocationField.png)
 
 ## Immediate Source of Acquisition
 *DACS*: [5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
