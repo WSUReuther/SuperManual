@@ -30,10 +30,7 @@ Top Containers need only be created once for each distinct Top Container. From t
 -  **Container Type**: Box, Folder, Volume, etc.
 -  **Indicator**: The container number (1, 2, 3... 54, 55, Oversize Various 1, etc.)
 
-If the top container will be linked to multiple resource records or will
-represent a non-typical storage container such as a scrapbook loose on a
-shelf, please add a location while creating the top container with these
-additional steps:
+If the top container will be linked to multiple resource records, please add a location while creating the top container with these additional steps:
 
 - Select Add Location
 - Click the drop-down arrow next to the Location field and select "Browse"
